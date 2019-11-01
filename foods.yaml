@@ -1,0 +1,7334 @@
+---
+groups:
+- title: Tabela kalorii owoce
+  categories:
+  - title: Owoce
+    foods:
+    - title: 'Owoce: tabela kalorii'
+      food:
+      - name: Acai
+        serving: 100g
+        kcal: 70 kcal
+        kj: 
+      - name: Jabłko
+        serving: 100g
+        kcal: 52 kcal
+        kj: 
+      - name: Przecier jabłkowy
+        serving: 100g
+        kcal: 68 kcal
+        kj: 
+      - name: Morela
+        serving: 100g
+        kcal: 48 kcal
+        kj: 
+      - name: Awokado
+        serving: 100g
+        kcal: 160 kcal
+        kj: 
+      - name: Banan
+        serving: 100g
+        kcal: 89 kcal
+        kj: 
+      - name: Jeżyna
+        serving: 100g
+        kcal: 43 kcal
+        kj: 
+      - name: Pomarańcza czerwona
+        serving: 100g
+        kcal: 50 kcal
+        kj: 
+      - name: Jagody
+        serving: 100g
+        kcal: 57 kcal
+        kj: 
+      - name: Kantalupa
+        serving: 100g
+        kcal: 34 kcal
+        kj: 
+      - name: Wiśnie
+        serving: 100g
+        kcal: 50 kcal
+        kj: 
+      - name: Klementynki
+        serving: 100g
+        kcal: 47 kcal
+        kj: 
+      - name: Żurawina
+        serving: 100g
+        kcal: 46 kcal
+        kj: 
+      - name: Porzeczki
+        serving: 100g
+        kcal: 56 kcal
+        kj: 
+      - name: Daktyle
+        serving: 100g
+        kcal: 282 kcal
+        kj: 
+      - name: Figi
+        serving: 100g
+        kcal: 74 kcal
+        kj: 
+      - name: Sałatka owocowa
+        serving: 100g
+        kcal: 50 kcal
+        kj: 
+      - name: Winogrona
+        serving: 100g
+        kcal: 69 kcal
+        kj: 
+      - name: Renkloda ulena
+        serving: 100g
+        kcal: 41 kcal
+        kj: 
+      - name: Gujawa
+        serving: 100g
+        kcal: 68 kcal
+        kj: 
+      - name: Dżakfrut
+        serving: 100g
+        kcal: 95 kcal
+        kj: 
+      - name: Kiwi
+        serving: 100g
+        kcal: 61 kcal
+        kj: 
+      - name: Cytryna
+        serving: 100g
+        kcal: 29 kcal
+        kj: 
+      - name: Limonka
+        serving: 100g
+        kcal: 30 kcal
+        kj: 
+      - name: Liczi
+        serving: 100g
+        kcal: 66 kcal
+        kj: 
+      - name: Mandarynki
+        serving: 100g
+        kcal: 53 kcal
+        kj: 
+      - name: Mango
+        serving: 100g
+        kcal: 60 kcal
+        kj: 
+      - name: Morwa
+        serving: 100g
+        kcal: 43 kcal
+        kj: 
+      - name: Nektarynki
+        serving: 100g
+        kcal: 44 kcal
+        kj: 
+      - name: Oliwki
+        serving: 100g
+        kcal: 115 kcal
+        kj: 
+      - name: Pomarańcza
+        serving: 100g
+        kcal: 47 kcal
+        kj: 
+      - name: Papaja
+        serving: 100g
+        kcal: 43 kcal
+        kj: 
+      - name: Passiflora
+        serving: 100g
+        kcal: 97 kcal
+        kj: 
+      - name: Brzoskwinia
+        serving: 100g
+        kcal: 39 kcal
+        kj: 
+      - name: Gruszka
+        serving: 100g
+        kcal: 57 kcal
+        kj: 
+      - name: Persymona
+        serving: 100g
+        kcal: 127 kcal
+        kj: 
+      - name: Miechunka
+        serving: 100g
+        kcal: 49 kcal
+        kj: 
+      - name: Ananas
+        serving: 100g
+        kcal: 50 kcal
+        kj: 
+      - name: Banan rajski
+        serving: 100g
+        kcal: 122 kcal
+        kj: 
+      - name: Śliwka
+        serving: 100g
+        kcal: 46 kcal
+        kj: 
+      - name: Granat
+        serving: 100g
+        kcal: 83 kcal
+        kj: 
+      - name: Pigwa
+        serving: 100g
+        kcal: 57 kcal
+        kj: 
+      - name: Rodzynki
+        serving: 100g
+        kcal: 299 kcal
+        kj: 
+      - name: Jagodzian rambutan
+        serving: 100g
+        kcal: 82 kcal
+        kj: 
+      - name: Maliny
+        serving: 100g
+        kcal: 52 kcal
+        kj: 
+      - name: Rabarbar
+        serving: 100g
+        kcal: 21 kcal
+        kj: 
+      - name: Karambola
+        serving: 100g
+        kcal: 31 kcal
+        kj: 
+      - name: Truskawki
+        serving: 100g
+        kcal: 32 kcal
+        kj: 
+      - name: Tamaryndowiec
+        serving: 100g
+        kcal: 239 kcal
+        kj: 
+      - name: Arbuz
+        serving: 100g
+        kcal: 30 kcal
+        kj: 
+      - name: Mirabelki
+        serving: 100g
+        kcal: 64 kcal
+        kj: 
+      - name: Poziomki
+        serving: 100g
+        kcal: 32 kcal
+        kj: 
+      - name: Czereśnie
+        serving: 100g
+        kcal: 63 kcal
+        kj: 
+      - name: Agrest
+        serving: 100g
+        kcal: 44 kcal
+        kj: 
+    - title: 'Owoce tropikalne i egzotyczne: tabela kalorii'
+      food:
+      - name: Acerola / wiśnia z Barbados
+        serving: 100g
+        kcal: 32 kcal
+        kj: 
+      - name: Awokado
+        serving: 100g
+        kcal: 160 kcal
+        kj: 
+      - name: Banan
+        serving: 100g
+        kcal: 89 kcal
+        kj: 
+      - name: Kantalupa
+        serving: 100g
+        kcal: 34 kcal
+        kj: 
+      - name: Melon żółty
+        serving: 100g
+        kcal: 28 kcal
+        kj: 
+      - name: Cherimoya
+        serving: 100g
+        kcal: 75 kcal
+        kj: 
+      - name: Durian
+        serving: 100g
+        kcal: 147 kcal
+        kj: 
+      - name: Akka Sellowa
+        serving: 100g
+        kcal: 55 kcal
+        kj: 
+      - name: Melon Galia
+        serving: 100g
+        kcal: 23 kcal
+        kj: 
+      - name: Grejpfrut
+        serving: 100g
+        kcal: 42 kcal
+        kj: 
+      - name: Chlebowiec
+        serving: 100g
+        kcal: 95 kcal
+        kj: 
+      - name: Kiwi
+        serving: 100g
+        kcal: 61 kcal
+        kj: 
+      - name: Kumkwat
+        serving: 100g
+        kcal: 71 kcal
+        kj: 
+      - name: Mandarynki
+        serving: 100g
+        kcal: 53 kcal
+        kj: 
+      - name: Mango
+        serving: 100g
+        kcal: 60 kcal
+        kj: 
+      - name: Mangostan
+        serving: 100g
+        kcal: 73 kcal
+        kj: 
+      - name: Wiśnie koktajlowe
+        serving: 100g
+        kcal: 165 kcal
+        kj: 
+      - name: Ogórek melon
+        serving: 100g
+        kcal: 34 kcal
+        kj: 
+      - name: Morwa indyjska
+        serving: 100g
+        kcal: 53 kcal
+        kj: 
+      - name: Ananas
+        serving: 100g
+        kcal: 50 kcal
+        kj: 
+      - name: Grejpfrut różowy
+        serving: 100g
+        kcal: 42 kcal
+        kj: 
+      - name: Banan zwyczajny
+        serving: 100g
+        kcal: 122 kcal
+        kj: 
+      - name: Granat
+        serving: 100g
+        kcal: 83 kcal
+        kj: 
+      - name: Pomelo
+        serving: 100g
+        kcal: 38 kcal
+        kj: 
+      - name: Opuncja figowa
+        serving: 100g
+        kcal: 41 kcal
+        kj: 
+      - name: Karambola
+        serving: 100g
+        kcal: 31 kcal
+        kj: 
+      - name: Tamaryndowiec
+        serving: 100g
+        kcal: 239 kcal
+        kj: 
+      - name: Arbuz
+        serving: 100g
+        kcal: 30 kcal
+        kj: 
+      - name: Pitaja (smoczy owoc)
+        serving: 100g
+        kcal: 60 kcal
+        kj: 
+      - name: Gujawa
+        serving: 100g
+        kcal: 68 kcal
+        kj: 
+      - name: Marakuja
+        serving: 100g
+        kcal: 97 kcal
+        kj: 
+      - name: Gruszka chińska
+        serving: 100g
+        kcal: 42 kcal
+        kj: 
+      - name: Chlebowiec właściwy
+        serving: 100g
+        kcal: 103 kcal
+        kj: 
+      - name: Liczi
+        serving: 100g
+        kcal: 66 kcal
+        kj: 
+  - title: Owoce w puszkach
+    foods:
+    - title: 'Owoce w puszkach: tabela kalorii'
+      food:
+      - name: Przecier jabłkowy
+        serving: 100g
+        kcal: 62 kcal
+        kj: 
+      - name: Morele w puszce
+        serving: 100g
+        kcal: 48 kcal
+        kj: 
+      - name: Jeżyny w puszce
+        serving: 100g
+        kcal: 92 kcal
+        kj: 
+      - name: Jagody w puszce
+        serving: 100g
+        kcal: 88 kcal
+        kj: 
+      - name: Wiśnie w puszce
+        serving: 100g
+        kcal: 54 kcal
+        kj: 
+      - name: Żurawina w puszce
+        serving: 100g
+        kcal: 178 kcal
+        kj: 
+      - name: Ananas w kawałkach w puszce
+        serving: 100g
+        kcal: 53 kcal
+        kj: 
+      - name: Figi w puszce
+        serving: 100g
+        kcal: 107 kcal
+        kj: 
+      - name: Sałatka owocowa w puszce
+        serving: 100g
+        kcal: 50 kcal
+        kj: 
+      - name: Agrest w puszce
+        serving: 100g
+        kcal: 73 kcal
+        kj: 
+      - name: Grejpfrut w puszce
+        serving: 100g
+        kcal: 37 kcal
+        kj: 
+      - name: Winogrona w puszce
+        serving: 100g
+        kcal: 76 kcal
+        kj: 
+      - name: Mandarynki w puszce
+        serving: 100g
+        kcal: 71 kcal
+        kj: 
+      - name: Mango w puszce
+        serving: 100g
+        kcal: 65 kcal
+        kj: 
+      - name: Mieszanka owocowa w puszce
+        serving: 100g
+        kcal: 71 kcal
+        kj: 
+      - name: Wiśnie morello w puszce
+        serving: 100g
+        kcal: 81 kcal
+        kj: 
+      - name: Pomarańcze w puszce
+        serving: 100g
+        kcal: 62 kcal
+        kj: 
+      - name: Brzoskwinie w puszce
+        serving: 100g
+        kcal: 54 kcal
+        kj: 
+      - name: Gruszki w puszce
+        serving: 100g
+        kcal: 35 kcal
+        kj: 
+      - name: Ananas w puszce
+        serving: 100g
+        kcal: 60 kcal
+        kj: 
+      - name: Śliwki w puszce
+        serving: 100g
+        kcal: 58 kcal
+        kj: 
+      - name: Maliny w puszce
+        serving: 100g
+        kcal: 91 kcal
+        kj: 
+      - name: Ananas w plasterkach w puszce
+        serving: 100g
+        kcal: 53 kcal
+        kj: 
+      - name: Truskawki w puszce
+        serving: 100g
+        kcal: 92 kcal
+        kj: 
+      - name: Suszone owoce
+        serving: 100g
+        kcal: 243 kcal
+        kj: 
+- title: Tabela kalorii warzywa
+  categories:
+  - title: Produkty ziemniaczane
+    foods:
+    - title: 'Produkty ziemniaczane: tabela kalorii'
+      food:
+      - name: Ziemniaki gotowane
+        serving: 100g
+        kcal: 87 kcal
+        kj: 
+      - name: Maniok jadalny
+        serving: 100g
+        kcal: 160 kcal
+        kj: 
+      - name: Krokiety
+        serving: 100g
+        kcal: 127 kcal
+        kj: 
+      - name: Frytki
+        serving: 100g
+        kcal: 312 kcal
+        kj: 
+      - name: Gnocchi
+        serving: 100g
+        kcal: 133 kcal
+        kj: 
+      - name: Ziemniaki tłuczone
+        serving: 100g
+        kcal: 89 kcal
+        kj: 
+      - name: Omlet
+        serving: 100g
+        kcal: 154 kcal
+        kj: 
+      - name: Ziemniak
+        serving: 100g
+        kcal: 77 kcal
+        kj: 
+      - name: Ziemniaki gratin
+        serving: 100g
+        kcal: 132 kcal
+        kj: 
+      - name: Sałatka ziemniaczana
+        serving: 100g
+        kcal: 143 kcal
+        kj: 
+      - name: Skrobia ziemniaczana
+        serving: 100g
+        kcal: 331 kcal
+        kj: 
+      - name: Słodki ziemniak
+        serving: 100g
+        kcal: 92 kcal
+        kj: 
+      - name: Ziemniaki białe
+        serving: 100g
+        kcal: 94 kcal
+        kj: 
+      - name: Ziemniaki Yukon Gold
+        serving: 100g
+        kcal: 82 kcal
+        kj: 
+      - name: Ziemniaki pieczone
+        serving: 100g
+        kcal: 93 kcal
+        kj: 
+      - name: Talarki ziemniaczane
+        serving: 100g
+        kcal: 123 kcal
+        kj: 
+      - name: Ziemniaki z rozmarynem
+        serving: 100g
+        kcal: 93 kcal
+        kj: 
+      - name: Ciasto na pierogi
+        serving: 100g
+        kcal: 124 kcal
+        kj: 
+      - name: Pierogi
+        serving: 100g
+        kcal: 124 kcal
+        kj: 
+      - name: Kluski z ziemniaków
+        serving: 100g
+        kcal: 124 kcal
+        kj: 
+      - name: Pyzy
+        serving: 100g
+        kcal: 424 kcal
+        kj: 
+      - name: Ziemniaki smażone
+        serving: 100g
+        kcal: 312 kcal
+        kj: 
+      - name: Placki ziemniaczane
+        serving: 100g
+        kcal: 185 kcal
+        kj: 
+      - name: Knedle
+        serving: 100g
+        kcal: 120 kcal
+        kj: 
+      - name: Knedle ze śliwkami
+        serving: 100g
+        kcal: 147 kcal
+        kj: 
+      - name: Kopytka
+        serving: 100g
+        kcal: 125 kcal
+        kj: 
+      - name: Placki ziemniaczane
+        serving: 100g
+        kcal: 166 kcal
+        kj: 
+    - title: 'Warzywa: tabela kalorii'
+      food:
+      - name: Karczoch
+        serving: 100g
+        kcal: 47 kcal
+        kj: 
+      - name: Rukola
+        serving: 100g
+        kcal: 25 kcal
+        kj: 
+      - name: Szparagi
+        serving: 100g
+        kcal: 20 kcal
+        kj: 
+      - name: Burak
+        serving: 100g
+        kcal: 43 kcal
+        kj: 
+      - name: Czarne oliwki
+        serving: 100g
+        kcal: 115 kcal
+        kj: 
+      - name: Brokuł
+        serving: 100g
+        kcal: 34 kcal
+        kj: 
+      - name: Brukselka
+        serving: 100g
+        kcal: 43 kcal
+        kj: 
+      - name: Kapusta
+        serving: 100g
+        kcal: 25 kcal
+        kj: 
+      - name: Marchew
+        serving: 100g
+        kcal: 41 kcal
+        kj: 
+      - name: Kalafior
+        serving: 100g
+        kcal: 25 kcal
+        kj: 
+      - name: Seler
+        serving: 100g
+        kcal: 16 kcal
+        kj: 
+      - name: Botwina
+        serving: 100g
+        kcal: 19 kcal
+        kj: 
+      - name: Pomidor koktajlowy
+        serving: 100g
+        kcal: 100 kcal
+        kj: 
+      - name: Cykoria
+        serving: 100g
+        kcal: 72 kcal
+        kj: 
+      - name: Szczypiorek
+        serving: 100g
+        kcal: 30 kcal
+        kj: 
+      - name: Kukurydza
+        serving: 100g
+        kcal: 365 kcal
+        kj: 
+      - name: Szpinak w sosie śmietanowym
+        serving: 100g
+        kcal: 74 kcal
+        kj: 
+      - name: Ogórek
+        serving: 100g
+        kcal: 16 kcal
+        kj: 
+      - name: Bakłażan
+        serving: 100g
+        kcal: 25 kcal
+        kj: 
+      - name: Endywia
+        serving: 100g
+        kcal: 17 kcal
+        kj: 
+      - name: Fenkuł
+        serving: 100g
+        kcal: 31 kcal
+        kj: 
+      - name: Czosnek
+        serving: 100g
+        kcal: 149 kcal
+        kj: 
+      - name: Ogórek kiszony
+        serving: 100g
+        kcal: 14 kcal
+        kj: 
+      - name: Tykwa
+        serving: 100g
+        kcal: 14 kcal
+        kj: 
+      - name: Fasolka zielona
+        serving: 100g
+        kcal: 31 kcal
+        kj: 
+      - name: Oliwki zielone
+        serving: 100g
+        kcal: 115 kcal
+        kj: 
+      - name: Cebula dymka
+        serving: 100g
+        kcal: 32 kcal
+        kj: 
+      - name: Chrzan
+        serving: 100g
+        kcal: 48 kcal
+        kj: 
+      - name: Jarmuż
+        serving: 100g
+        kcal: 49 kcal
+        kj: 
+      - name: Kalarepa
+        serving: 100g
+        kcal: 27 kcal
+        kj: 
+      - name: Por
+        serving: 100g
+        kcal: 61 kcal
+        kj: 
+      - name: Sałata
+        serving: 100g
+        kcal: 15 kcal
+        kj: 
+      - name: Grzyby
+        serving: 100g
+        kcal: 22 kcal
+        kj: 
+      - name: Kapusta sarepsa
+        serving: 100g
+        kcal: 27 kcal
+        kj: 
+      - name: Nori
+        serving: 100g
+        kcal: 35 kcal
+        kj: 
+      - name: Piżmian (okra)
+        serving: 100g
+        kcal: 33 kcal
+        kj: 
+      - name: Oliwki zielone
+        serving: 100g
+        kcal: 115 kcal
+        kj: 
+      - name: Cebula dymka
+        serving: 100g
+        kcal: 40 kcal
+        kj: 
+      - name: Pasternak
+        serving: 100g
+        kcal: 75 kcal
+        kj: 
+      - name: Groszek
+        serving: 100g
+        kcal: 81 kcal
+        kj: 
+      - name: Papryka
+        serving: 100g
+        kcal: 27 kcal
+        kj: 
+      - name: Ziemniak
+        serving: 100g
+        kcal: 77 kcal
+        kj: 
+      - name: Dynia
+        serving: 100g
+        kcal: 26 kcal
+        kj: 
+      - name: Rzodkiewka
+        serving: 100g
+        kcal: 16 kcal
+        kj: 
+      - name: Kapusta czerwona
+        serving: 100g
+        kcal: 31 kcal
+        kj: 
+      - name: Brukiew
+        serving: 100g
+        kcal: 38 kcal
+        kj: 
+      - name: Szalotka
+        serving: 100g
+        kcal: 72 kcal
+        kj: 
+      - name: Szpinak
+        serving: 100g
+        kcal: 23 kcal
+        kj: 
+      - name: Ziemniak słodki
+        serving: 100g
+        kcal: 86 kcal
+        kj: 
+      - name: Pomidor
+        serving: 100g
+        kcal: 18 kcal
+        kj: 
+      - name: Wasabi
+        serving: 100g
+        kcal: 109 kcal
+        kj: 
+      - name: Cukinia
+        serving: 100g
+        kcal: 17 kcal
+        kj: 
+      - name: Rzepa
+        serving: 100g
+        kcal: 28 kcal
+        kj: 
+      - name: Kapusta chińska
+        serving: 100g
+        kcal: 16 kcal
+        kj: 
+      - name: Liście kapusty warzywnej
+        serving: 100g
+        kcal: 32 kcal
+        kj: 
+      - name: Liście rzepy
+        serving: 100g
+        kcal: 20 kcal
+        kj: 
+      - name: Kapusta kiszona
+        serving: 100g
+        kcal: 17 kcal
+        kj: 
+- title: Tabela kalorii fast food
+  categories:
+  - title: Fast Food
+    foods:
+    - title: 'Fast Food: tabela kalorii'
+      food:
+      - name: Big Mac z McDonald’s
+        serving: 100g
+        kcal: 256 kcal
+        kj: 
+      - name: Kiełbasa
+        serving: 100g
+        kcal: 333 kcal
+        kj: 
+      - name: Double Whopper z Burger King
+        serving: 100g
+        kcal: 239 kcal
+        kj: 
+      - name: Whopper z Burger King
+        serving: 100g
+        kcal: 231 kcal
+        kj: 
+      - name: Cheeseburger
+        serving: 100g
+        kcal: 263 kcal
+        kj: 
+      - name: Piersi z kurczaka
+        serving: 100g
+        kcal: 163 kcal
+        kj: 
+      - name: Nuggetsy z kurczaka
+        serving: 100g
+        kcal: 296 kcal
+        kj: 
+      - name: Kanapka z kurczakiem
+        serving: 100g
+        kcal: 241 kcal
+        kj: 
+      - name: Skrzydełka z kurczaka
+        serving: 100g
+        kcal: 324 kcal
+        kj: 
+      - name: Chop Suey
+        serving: 100g
+        kcal: 172 kcal
+        kj: 
+      - name: Podwójny cheeseburger
+        serving: 100g
+        kcal: 267 kcal
+        kj: 
+      - name: Krokiet
+        serving: 100g
+        kcal: 250 kcal
+        kj: 
+      - name: Falafel
+        serving: 100g
+        kcal: 335 kcal
+        kj: 
+      - name: Filet-o-Fish
+        serving: 100g
+        kcal: 282 kcal
+        kj: 
+      - name: Ryba z frytkami
+        serving: 100g
+        kcal: 195 kcal
+        kj: 
+      - name: Kanapka z rybą
+        serving: 100g
+        kcal: 273 kcal
+        kj: 
+      - name: Frytki
+        serving: 100g
+        kcal: 254 kcal
+        kj: 
+      - name: Sałatka z grillowanym kurczakiem
+        serving: 100g
+        kcal: 88 kcal
+        kj: 
+      - name: Kanapka z szynką
+        serving: 100g
+        kcal: 241 kcal
+        kj: 
+      - name: Hamburger
+        serving: 100g
+        kcal: 254 kcal
+        kj: 
+      - name: Hot dog
+        serving: 100g
+        kcal: 269 kcal
+        kj: 
+      - name: Lazania
+        serving: 100g
+        kcal: 132 kcal
+        kj: 
+      - name: McChicken z McDonald’s
+        serving: 100g
+        kcal: 251 kcal
+        kj: 
+      - name: Cheeseburger z McDonald’s
+        serving: 100g
+        kcal: 263 kcal
+        kj: 
+      - name: Nuggetsy kurczakowe z McDonald’s
+        serving: 100g
+        kcal: 297 kcal
+        kj: 
+      - name: Podwójny cheeseburger z McDonald’s
+        serving: 100g
+        kcal: 282 kcal
+        kj: 
+      - name: Filet-o-Fish z McDonald’s
+        serving: 100g
+        kcal: 275 kcal
+        kj: 
+      - name: Nachos z serem
+        serving: 100g
+        kcal: 306 kcal
+        kj: 
+      - name: Krążki cebulowe
+        serving: 100g
+        kcal: 411 kcal
+        kj: 
+      - name: Łosoś wędzony
+        serving: 100g
+        kcal: 158 kcal
+        kj: 
+      - name: Tuńczyk
+        serving: 100g
+        kcal: 86 kcal
+        kj: 
+      - name: Indyk
+        serving: 100g
+        kcal: 104 kcal
+        kj: 
+      - name: Burger wegetariański
+        serving: 100g
+        kcal: 181 kcal
+        kj: 
+      - name: Kanapka Veggie Delight
+        serving: 100g
+        kcal: 138 kcal
+        kj: 
+      - name: Kotlet wegetariański
+        serving: 100g
+        kcal: 390 kcal
+        kj: 
+      - name: Fajita z kurczakiem
+        serving: 100g
+        kcal: 147 kcal
+        kj: 
+      - name: Kanapka Chicken Teriyaki
+        serving: 100g
+        kcal: 138 kcal
+        kj: 
+      - name: Frytki kręcone
+        serving: 100g
+        kcal: 311 kcal
+        kj: 
+      - name: Kanapka z klopsikami
+        serving: 100g
+        kcal: 161 kcal
+        kj: 
+      - name: Tortilla Wrap
+        serving: 100g
+        kcal: 271 kcal
+        kj: 
+      - name: McMuffin Egg z McDOnald’s
+        serving: 100g
+        kcal: 225 kcal
+        kj: 
+      - name: Cicken Pizziola
+        serving: 100g
+        kcal: 141 kcal
+        kj: 
+      - name: Italian BMT
+        serving: 100g
+        kcal: 183 kcal
+        kj: 
+      - name: Żeberka grillowane
+        serving: 100g
+        kcal: 212 kcal
+        kj: 
+      - name: McRib z McDonald’s
+        serving: 100g
+        kcal: 265 kcal
+        kj: 
+      - name: Skrzydełka Mighty Wings z McDonald’s
+        serving: 100g
+        kcal: 308 kcal
+        kj: 
+      - name: McDouble z McDonald’s
+        serving: 100g
+        kcal: 252 kcal
+        kj: 
+      - name: Kebab
+        serving: 100g
+        kcal: 225 kcal
+        kj: 
+      - name: Zapiekanka
+        serving: 100g
+        kcal: 214 kcal
+        kj: 
+      - name: Kanapka Subway Melt
+        serving: 100g
+        kcal: 370 kcal
+        kj: 
+      - name: Wieśmac z McDonald’s
+        serving: 100g
+        kcal: 256 kcal
+        kj: 
+      - name: McRoyal z McDonald’s
+        serving: 100g
+        kcal: 269 kcal
+        kj: 
+      - name: Chikker z McDonald’s
+        serving: 100g
+        kcal: 258 kcal
+        kj: 
+      - name: Chicken Strips z McDonald’s
+        serving: 100g
+        kcal: 203 kcal
+        kj: 
+      - name: Tender z KFC
+        serving: 100g
+        kcal: 240 kcal
+        kj: 
+      - name: Grander Texas z KFC
+        serving: 100g
+        kcal: 269 kcal
+        kj: 
+      - name: Qurrito z KFC
+        serving: 100g
+        kcal: 271 kcal
+        kj: 
+      - name: Mega Pocket z KFC
+        serving: 100g
+        kcal: 243 kcal
+        kj: 
+      - name: Grander z KFC
+        serving: 100g
+        kcal: 242 kcal
+        kj: 
+      - name: Brazer kanapka z KFC
+        serving: 100g
+        kcal: 190 kcal
+        kj: 
+      - name: Twister Ser&Bekon z KFC
+        serving: 100g
+        kcal: 259 kcal
+        kj: 
+      - name: Brazer Twister z KFC
+        serving: 100g
+        kcal: 188 kcal
+        kj: 
+      - name: Twister z KFC
+        serving: 100g
+        kcal: 240 kcal
+        kj: 
+      - name: Zinger z KFC
+        serving: 100g
+        kcal: 270 kcal
+        kj: 
+      - name: iTwist z KFC
+        serving: 100g
+        kcal: 246 kcal
+        kj: 
+      - name: Longer z KFC
+        serving: 100g
+        kcal: 241 kcal
+        kj: 
+    - title: 'Pizza: tabela kalorii'
+      food:
+      - name: Pizza Calabrese
+        serving: 100g
+        kcal: 235 kcal
+        kj: 
+      - name: Calzoni
+        serving: 100g
+        kcal: 231 kcal
+        kj: 
+      - name: Pizza Capricciosa
+        serving: 100g
+        kcal: 260 kcal
+        kj: 
+      - name: Pizza z serem
+        serving: 100g
+        kcal: 267 kcal
+        kj: 
+      - name: Pizza z kurczakiem
+        serving: 100g
+        kcal: 234 kcal
+        kj: 
+      - name: Pizza z serem kozim
+        serving: 100g
+        kcal: 219 kcal
+        kj: 
+      - name: Pizza hawajska
+        serving: 100g
+        kcal: 115 kcal
+        kj: 
+      - name: Pizza Margherita
+        serving: 100g
+        kcal: 275 kcal
+        kj: 
+      - name: Pizza z serem Mozzarella
+        serving: 100g
+        kcal: 249 kcal
+        kj: 
+      - name: Pizza Napoli
+        serving: 100g
+        kcal: 202 kcal
+        kj: 
+      - name: Pizza Pepperoni
+        serving: 100g
+        kcal: 255 kcal
+        kj: 
+      - name: Ciasto na pizzę
+        serving: 100g
+        kcal: 228 kcal
+        kj: 
+      - name: Supreme Pizza z Pizza Hut
+        serving: 100g
+        kcal: 248 kcal
+        kj: 
+      - name: Pizza Quattro Formaggi
+        serving: 100g
+        kcal: 248 kcal
+        kj: 
+      - name: Pizza z czerwoną papryką
+        serving: 100g
+        kcal: 192 kcal
+        kj: 
+      - name: Pizza z salami
+        serving: 100g
+        kcal: 255 kcal
+        kj: 
+      - name: Pizza z kiełbasą
+        serving: 100g
+        kcal: 246 kcal
+        kj: 
+      - name: Pizza z owocami morza
+        serving: 100g
+        kcal: 245 kcal
+        kj: 
+      - name: Pizza z krewetkami
+        serving: 100g
+        kcal: 209 kcal
+        kj: 
+      - name: Pizza sycylijska
+        serving: 100g
+        kcal: 241 kcal
+        kj: 
+      - name: Pizza z fetą i szpinakiem
+        serving: 100g
+        kcal: 242 kcal
+        kj: 
+      - name: Pizza ze szpinakiem
+        serving: 100g
+        kcal: 234 kcal
+        kj: 
+      - name: Flammkuchen
+        serving: 100g
+        kcal: 253 kcal
+        kj: 
+      - name: Pizza z tuńczykiem
+        serving: 100g
+        kcal: 254 kcal
+        kj: 
+      - name: Pizza z warzywami
+        serving: 100g
+        kcal: 256 kcal
+        kj: 
+      - name: Pizza wegetariańska
+        serving: 100g
+        kcal: 256 kcal
+        kj: 
+      - name: Pizza biała
+        serving: 100g
+        kcal: 246 kcal
+        kj: 
+      - name: Pizza z pieczarkami
+        serving: 100g
+        kcal: 212 kcal
+        kj: 
+      - name: Pizza na grubym spodzie
+        serving: 100g
+        kcal: 255 kcal
+        kj: 
+      - name: Pizza na cienkim spodzie
+        serving: 100g
+        kcal: 261 kcal
+        kj: 
+      - name: Pizza na grubym spodzie z Pizza Hut
+        serving: 100g
+        kcal: 255 kcal
+        kj: 
+      - name: Pizza Rolls
+        serving: 100g
+        kcal: 247 kcal
+        kj: 
+      - name: Pizza Bianko
+        serving: 100g
+        kcal: 250 kcal
+        kj: 
+      - name: Pizza Toscana
+        serving: 100g
+        kcal: 205 kcal
+        kj: 
+      - name: Pizza Fungi
+        serving: 100g
+        kcal: 212 kcal
+        kj: 
+      - name: Pizza diabelska
+        serving: 100g
+        kcal: 220 kcal
+        kj: 
+      - name: Pizza Mexicana
+        serving: 100g
+        kcal: 232 kcal
+        kj: 
+      - name: Pizza Vesuvio
+        serving: 100g
+        kcal: 287 kcal
+        kj: 
+      - name: Pizza Flambee
+        serving: 100g
+        kcal: 245 kcal
+        kj: 
+      - name: Pizza Primavera
+        serving: 100g
+        kcal: 180 kcal
+        kj: 
+      - name: Mini Pizza
+        serving: 100g
+        kcal: 365 kcal
+        kj: 
+- title: Tabela kalorii mleko i produkty mleczne
+  categories:
+  - title: Jogurt
+    foods:
+    - title: 'Jogurt: tabela kalorii'
+      food:
+      - name: Activia
+        serving: 100g
+        kcal: 74 kcal
+        kj: 
+      - name: Activia cytrynowa
+        serving: 100g
+        kcal: 100 kcal
+        kj: 
+      - name: Activia truskawkowa
+        serving: 100g
+        kcal: 97 kcal
+        kj: 
+      - name: Jogurt wiśniowy
+        serving: 100g
+        kcal: 97 kcal
+        kj: 
+      - name: Jogurt czekoladowy
+        serving: 100g
+        kcal: 128 kcal
+        kj: 
+      - name: Jogurt owocowy
+        serving: 100g
+        kcal: 97 kcal
+        kj: 
+      - name: Jogurt niskotłuszczowy
+        serving: 100g
+        kcal: 63 kcal
+        kj: 
+      - name: Jogurt Mocca
+        serving: 100g
+        kcal: 100 kcal
+        kj: 
+      - name: Jogurt organiczny
+        serving: 100g
+        kcal: 75 kcal
+        kj: 
+      - name: Jogurt brzoskwiniowy
+        serving: 100g
+        kcal: 97 kcal
+        kj: 
+      - name: Jogurt probiotyczny
+        serving: 100g
+        kcal: 80 kcal
+        kj: 
+      - name: Jogurt z mleka odtłuszczonego
+        serving: 100g
+        kcal: 56 kcal
+        kj: 
+      - name: Jogurt stracciatella
+        serving: 100g
+        kcal: 139 kcal
+        kj: 
+      - name: Jogurt truskawkowy
+        serving: 100g
+        kcal: 100 kcal
+        kj: 
+      - name: Jogurt waniliowy
+        serving: 100g
+        kcal: 101 kcal
+        kj: 
+      - name: Jogurt
+        serving: 100g
+        kcal: 61 kcal
+        kj: 
+      - name: Jogurt jagodowy
+        serving: 100g
+        kcal: 105 kcal
+        kj: 
+      - name: Jogurt grecki
+        serving: 100g
+        kcal: 53 kcal
+        kj: 
+      - name: Jogurt śmietankowy
+        serving: 100g
+        kcal: 90 kcal
+        kj: 
+      - name: Jogurt dietetyczny
+        serving: 100g
+        kcal: 54 kcal
+        kj: 
+      - name: Jogurt z muesli
+        serving: 100g
+        kcal: 109 kcal
+        kj: 
+      - name: Jogurt grecki light
+        serving: 100g
+        kcal: 116 kcal
+        kj: 
+      - name: Jogurt Danone Fantasia
+        serving: 100g
+        kcal: 120 kcal
+        kj: 
+      - name: Jogurt malinowy
+        serving: 100g
+        kcal: 92 kcal
+        kj: 
+      - name: Actimel
+        serving: 100g
+        kcal: 95 kcal
+        kj: 
+      - name: Jogurt z ziarnami zbóż
+        serving: 100g
+        kcal: 110 kcal
+        kj: 
+      - name: Jogurt 0%
+        serving: 100g
+        kcal: 46 kcal
+        kj: 
+      - name: Jogurt kozi
+        serving: 100g
+        kcal: 66 kcal
+        kj: 
+      - name: Jogurt owoce leśne
+        serving: 100g
+        kcal: 115 kcal
+        kj: 
+    - title: 'Mleko i produkty mleczne: tabela kalorii'
+      food:
+      - name: Mleko
+        serving: 100g
+        kcal: 61 kcal
+        kj: 
+      - name: Mleko migdałowe
+        serving: 100g
+        kcal: 17 kcal
+        kj: 
+      - name: Serek wiejski
+        serving: 100g
+        kcal: 98 kcal
+        kj: 
+      - name: Mleko odtłuszczone
+        serving: 100g
+        kcal: 35 kcal
+        kj: 
+      - name: Mleko kokosowe
+        serving: 100g
+        kcal: 230 kcal
+        kj: 
+      - name: Mleko pełne
+        serving: 100g
+        kcal: 61 kcal
+        kj: 
+      - name: Jogurt
+        serving: 100g
+        kcal: 61 kcal
+        kj: 
+      - name: Czekolada na gorąco
+        serving: 100g
+        kcal: 89 kcal
+        kj: 
+      - name: Mleko sojowe
+        serving: 100g
+        kcal: 45 kcal
+        kj: 
+      - name: Kwaśna śmietana
+        serving: 100g
+        kcal: 181 kcal
+        kj: 
+      - name: Mleko półtłuste
+        serving: 100g
+        kcal: 50 kcal
+        kj: 
+      - name: Tzatziki
+        serving: 100g
+        kcal: 117 kcal
+        kj: 
+      - name: Bita śmietana
+        serving: 100g
+        kcal: 257 kcal
+        kj: 
+      - name: Ryż na mleku
+        serving: 100g
+        kcal: 118 kcal
+        kj: 
+      - name: Mleko skondensowane
+        serving: 100g
+        kcal: 321 kcal
+        kj: 
+      - name: Śmietanka
+        serving: 100g
+        kcal: 242 kcal
+        kj: 
+      - name: Maślanka
+        serving: 100g
+        kcal: 62 kcal
+        kj: 
+      - name: Creme Fraiche
+        serving: 100g
+        kcal: 393 kcal
+        kj: 
+      - name: Kefir
+        serving: 100g
+        kcal: 55 kcal
+        kj: 
+      - name: Mus czekoladowy
+        serving: 100g
+        kcal: 225 kcal
+        kj: 
+      - name: Mleko skondensowane słodzone
+        serving: 100g
+        kcal: 321 kcal
+        kj: 
+      - name: Mleko ryżowe
+        serving: 100g
+        kcal: 49 kcal
+        kj: 
+      - name: Mleko kozie
+        serving: 100g
+        kcal: 69 kcal
+        kj: 
+      - name: Mleko w proszku
+        serving: 100g
+        kcal: 496 kcal
+        kj: 
+      - name: Lassi
+        serving: 100g
+        kcal: 75 kcal
+        kj: 
+      - name: Mleko bez laktozy
+        serving: 100g
+        kcal: 52 kcal
+        kj: 
+      - name: Zsiadłe mleko
+        serving: 100g
+        kcal: 98 kcal
+        kj: 
+      - name: Budyń z semoliny
+        serving: 100g
+        kcal: 67 kcal
+        kj: 
+      - name: Śmietana do kawy
+        serving: 100g
+        kcal: 195 kcal
+        kj: 
+  - title: Ser
+    foods:
+    - title: 'Ser: tabela kalorii'
+      food:
+      - name: Ser Asiago
+        serving: 100g
+        kcal: 392 kcal
+        kj: 
+      - name: Ser Baabybel
+        serving: 100g
+        kcal: 333 kcal
+        kj: 
+      - name: Ser niebieski
+        serving: 100g
+        kcal: 353 kcal
+        kj: 
+      - name: Brie
+        serving: 100g
+        kcal: 334 kcal
+        kj: 
+      - name: Camembert
+        serving: 100g
+        kcal: 300 kcal
+        kj: 
+      - name: Cheddar
+        serving: 100g
+        kcal: 403 kcal
+        kj: 
+      - name: Fondue serowe
+        serving: 100g
+        kcal: 228 kcal
+        kj: 
+      - name: Chester
+        serving: 100g
+        kcal: 387 kcal
+        kj: 
+      - name: Serek ziarnisty
+        serving: 100g
+        kcal: 98 kcal
+        kj: 
+      - name: Ser holenderski
+        serving: 100g
+        kcal: 393 kcal
+        kj: 
+      - name: Ser edamski
+        serving: 100g
+        kcal: 357 kcal
+        kj: 
+      - name: Emmentaler
+        serving: 100g
+        kcal: 357 kcal
+        kj: 
+      - name: Feta
+        serving: 100g
+        kcal: 264 kcal
+        kj: 
+      - name: Fontina
+        serving: 100g
+        kcal: 389 kcal
+        kj: 
+      - name: Ser kozi
+        serving: 100g
+        kcal: 364 kcal
+        kj: 
+      - name: Gorgonzola
+        serving: 100g
+        kcal: 350 kcal
+        kj: 
+      - name: Gouda
+        serving: 100g
+        kcal: 356 kcal
+        kj: 
+      - name: Tarty parmezan
+        serving: 100g
+        kcal: 431 kcal
+        kj: 
+      - name: Gruyere
+        serving: 100g
+        kcal: 413 kcal
+        kj: 
+      - name: Halloumi
+        serving: 100g
+        kcal: 321 kcal
+        kj: 
+      - name: Havarti
+        serving: 100g
+        kcal: 371 kcal
+        kj: 
+      - name: Ser włoski
+        serving: 100g
+        kcal: 397 kcal
+        kj: 
+      - name: Jarlsberg
+        serving: 100g
+        kcal: 352 kcal
+        kj: 
+      - name: Ser Maasdam
+        serving: 100g
+        kcal: 344 kcal
+        kj: 
+      - name: Ser Manchego
+        serving: 100g
+        kcal: 320 kcal
+        kj: 
+      - name: Mozzarella
+        serving: 100g
+        kcal: 280 kcal
+        kj: 
+      - name: Ser Muenster
+        serving: 100g
+        kcal: 368 kcal
+        kj: 
+      - name: Neufchatel
+        serving: 100g
+        kcal: 253 kcal
+        kj: 
+      - name: Parmesan
+        serving: 100g
+        kcal: 431 kcal
+        kj: 
+      - name: Pecorino
+        serving: 100g
+        kcal: 387 kcal
+        kj: 
+      - name: Provolone
+        serving: 100g
+        kcal: 351 kcal
+        kj: 
+      - name: Ser Raclette
+        serving: 100g
+        kcal: 357 kcal
+        kj: 
+      - name: Ricotta
+        serving: 100g
+        kcal: 174 kcal
+        kj: 
+      - name: Roquefort
+        serving: 100g
+        kcal: 369 kcal
+        kj: 
+      - name: Ser owczy
+        serving: 100g
+        kcal: 364 kcal
+        kj: 
+      - name: Ser Stilton
+        serving: 100g
+        kcal: 393 kcal
+        kj: 
+      - name: Ser szwajcarski
+        serving: 100g
+        kcal: 380 kcal
+        kj: 
+      - name: Serek topiony
+        serving: 100g
+        kcal: 290 kcal
+        kj: 
+      - name: Ser miękki
+        serving: 100g
+        kcal: 268 kcal
+        kj: 
+      - name: Ser grillowany
+        serving: 100g
+        kcal: 350 kcal
+        kj: 
+      - name: Oscypek
+        serving: 100g
+        kcal: 386 kcal
+        kj: 
+      - name: Twaróg chudy
+        serving: 100g
+        kcal: 113 kcal
+        kj: 
+      - name: Twaróg półtłusty
+        serving: 100g
+        kcal: 133 kcal
+        kj: 
+      - name: Twaróg tłusty
+        serving: 100g
+        kcal: 148 kcal
+        kj: 
+      - name: Serek homogenizowany
+        serving: 100g
+        kcal: 131 kcal
+        kj: 
+      - name: Ser królewski
+        serving: 100g
+        kcal: 359 kcal
+        kj: 
+      - name: Ser żółty wędzony
+        serving: 100g
+        kcal: 313 kcal
+        kj: 
+      - name: Ser kozi wędzony
+        serving: 100g
+        kcal: 353 kcal
+        kj: 
+      - name: Serek topiony
+        serving: 100g
+        kcal: 316 kcal
+        kj: 
+      - name: Ser tostowy
+        serving: 100g
+        kcal: 274 kcal
+        kj: 
+      - name: Ser tylżycki
+        serving: 100g
+        kcal: 322 kcal
+        kj: 
+    - title: 'Ser topiony: tabela kalorii'
+      food:
+      - name: Serek wiejski
+        serving: 100g
+        kcal: 98 kcal
+        kj: 
+      - name: Serek śmietanowy
+        serving: 100g
+        kcal: 342 kcal
+        kj: 
+      - name: Serek śmietanowy z ziołami
+        serving: 100g
+        kcal: 342 kcal
+        kj: 
+      - name: Ser kozi
+        serving: 100g
+        kcal: 364 kcal
+        kj: 
+      - name: Chrzan
+        serving: 100g
+        kcal: 48 kcal
+        kj: 
+      - name: Serek mascarpone
+        serving: 100g
+        kcal: 450 kcal
+        kj: 
+      - name: Pasta serowa obazta
+        serving: 100g
+        kcal: 303 kcal
+        kj: 
+      - name: Serek śmietankowy Philadelphia
+        serving: 100g
+        kcal: 342 kcal
+        kj: 
+      - name: Serek śmietankowy ze szczypiorkiem
+        serving: 100g
+        kcal: 342 kcal
+        kj: 
+      - name: Ser feta śmietankowy
+        serving: 100g
+        kcal: 342 kcal
+        kj: 
+      - name: Serek śmietankowy czosnkowy
+        serving: 100g
+        kcal: 342 kcal
+        kj: 
+      - name: Serek śmietankowy oliwkowy
+        serving: 100g
+        kcal: 342 kcal
+        kj: 
+      - name: Serek śmietankowy orzechowy
+        serving: 100g
+        kcal: 342 kcal
+        kj: 
+  - title: Ser w plasterkach
+    foods:
+    - title: 'Ser w plasterkach: tabela kalorii'
+      food:
+      - name: Cheddar
+        serving: 100g
+        kcal: 403 kcal
+        kj: 
+      - name: Talerz serów
+        serving: 100g
+        kcal: 357 kcal
+        kj: 
+      - name: Ser w plasterkach
+        serving: 100g
+        kcal: 356 kcal
+        kj: 
+      - name: Ser edamski
+        serving: 100g
+        kcal: 357 kcal
+        kj: 
+      - name: Emmentaler
+        serving: 100g
+        kcal: 357 kcal
+        kj: 
+      - name: Ser Esrom
+        serving: 100g
+        kcal: 322 kcal
+        kj: 
+      - name: Fol Epi
+        serving: 100g
+        kcal: 388 kcal
+        kj: 
+      - name: Gouda
+        serving: 100g
+        kcal: 356 kcal
+        kj: 
+      - name: Havarti
+        serving: 100g
+        kcal: 371 kcal
+        kj: 
+      - name: Ser Leerdammer
+        serving: 100g
+        kcal: 284 kcal
+        kj: 
+      - name: Ser Maasdam
+        serving: 100g
+        kcal: 344 kcal
+        kj: 
+      - name: Mozzarella
+        serving: 100g
+        kcal: 280 kcal
+        kj: 
+      - name: Ser Muenster
+        serving: 100g
+        kcal: 368 kcal
+        kj: 
+      - name: Ser z pieprzem
+        serving: 100g
+        kcal: 100 kcal
+        kj: 
+      - name: Ser wędzony
+        serving: 100g
+        kcal: 410 kcal
+        kj: 
+      - name: Ser tylżycki
+        serving: 100g
+        kcal: 340 kcal
+        kj: 
+      - name: Młoda gouda
+        serving: 100g
+        kcal: 356 kcal
+        kj: 
+      - name: Bergkäse
+        serving: 100g
+        kcal: 418 kcal
+        kj: 
+      - name: Ser maślany
+        serving: 100g
+        kcal: 388 kcal
+        kj: 
+      - name: Ser kanapkowy
+        serving: 100g
+        kcal: 148 kcal
+        kj: 
+      - name: Ser królewski
+        serving: 100g
+        kcal: 359 kcal
+        kj: 
+      - name: Ser tostowy
+        serving: 100g
+        kcal: 274 kcal
+        kj: 
+      - name: Ser salami
+        serving: 100g
+        kcal: 351 kcal
+        kj: 
+      - name: Ser podlaski
+        serving: 100g
+        kcal: 388 kcal
+        kj: 
+      - name: Gouda Light
+        serving: 100g
+        kcal: 247 kcal
+        kj: 
+      - name: Ser Westberg
+        serving: 100g
+        kcal: 277 kcal
+        kj: 
+- title: Tabela kalorii mięso i produkty mięsne
+  categories:
+  - title: Drób i ptactwo
+    foods:
+    - title: 'Drób i ptactwo: tabela kalorii'
+      food:
+      - name: Kapłon
+        serving: 100g
+        kcal: 229 kcal
+        kj: 
+      - name: Kurczak
+        serving: 100g
+        kcal: 219 kcal
+        kj: 
+      - name: Pierś z kurczaka
+        serving: 100g
+        kcal: 172 kcal
+        kj: 
+      - name: Skrzydełka z kurczaka
+        serving: 100g
+        kcal: 266 kcal
+        kj: 
+      - name: Kaczka
+        serving: 100g
+        kcal: 337 kcal
+        kj: 
+      - name: Pierś z kaczki
+        serving: 100g
+        kcal: 201 kcal
+        kj: 
+      - name: Gęś
+        serving: 100g
+        kcal: 305 kcal
+        kj: 
+      - name: Perliczka
+        serving: 100g
+        kcal: 158 kcal
+        kj: 
+      - name: Struś
+        serving: 100g
+        kcal: 145 kcal
+        kj: 
+      - name: Bażant
+        serving: 100g
+        kcal: 239 kcal
+        kj: 
+      - name: Pierś z bażanta
+        serving: 100g
+        kcal: 133 kcal
+        kj: 
+      - name: Udko z bażanta
+        serving: 100g
+        kcal: 239 kcal
+        kj: 
+      - name: Gołąb
+        serving: 100g
+        kcal: 142 kcal
+        kj: 
+      - name: Pularda
+        serving: 100g
+        kcal: 200 kcal
+        kj: 
+      - name: Przepiórka
+        serving: 100g
+        kcal: 227 kcal
+        kj: 
+      - name: Pierś z przepiórki
+        serving: 100g
+        kcal: 123 kcal
+        kj: 
+      - name: Indyk
+        serving: 100g
+        kcal: 189 kcal
+        kj: 
+      - name: Pierś z indyka
+        serving: 100g
+        kcal: 135 kcal
+        kj: 
+      - name: Bitki z indyka
+        serving: 100g
+        kcal: 189 kcal
+        kj: 
+      - name: Skrzydełka z indyka
+        serving: 100g
+        kcal: 221 kcal
+        kj: 
+      - name: Kaczka krzyżówka
+        serving: 100g
+        kcal: 211 kcal
+        kj: 
+      - name: Udka z kurczaka
+        serving: 100g
+        kcal: 174 kcal
+        kj: 
+      - name: Stek z indyka
+        serving: 100g
+        kcal: 189 kcal
+        kj: 
+      - name: Żołądki z kurczaka
+        serving: 100g
+        kcal: 154 kcal
+        kj: 
+      - name: Udko z indyka
+        serving: 100g
+        kcal: 208 kcal
+        kj: 
+    - title: 'Dziczyzna: tabela kalorii'
+      food:
+      - name: Aligator
+        serving: 100g
+        kcal: 104 kcal
+        kj: 
+      - name: Antylopa
+        serving: 100g
+        kcal: 150 kcal
+        kj: 
+      - name: Niedźwiedź
+        serving: 100g
+        kcal: 259 kcal
+        kj: 
+      - name: Bóbr
+        serving: 100g
+        kcal: 212 kcal
+        kj: 
+      - name: Bizon
+        serving: 100g
+        kcal: 171 kcal
+        kj: 
+      - name: Bawół
+        serving: 100g
+        kcal: 131 kcal
+        kj: 
+      - name: Karibu
+        serving: 100g
+        kcal: 159 kcal
+        kj: 
+      - name: Gęś
+        serving: 100g
+        kcal: 238 kcal
+        kj: 
+      - name: Jagnięcina
+        serving: 100g
+        kcal: 202 kcal
+        kj: 
+      - name: Łoś
+        serving: 100g
+        kcal: 134 kcal
+        kj: 
+      - name: Baranina
+        serving: 100g
+        kcal: 234 kcal
+        kj: 
+      - name: Struś
+        serving: 100g
+        kcal: 175 kcal
+        kj: 
+      - name: Bażant
+        serving: 100g
+        kcal: 239 kcal
+        kj: 
+      - name: Królik
+        serving: 100g
+        kcal: 197 kcal
+        kj: 
+      - name: Szop
+        serving: 100g
+        kcal: 255 kcal
+        kj: 
+      - name: Renifer
+        serving: 100g
+        kcal: 200 kcal
+        kj: 
+      - name: Wiewiórka
+        serving: 100g
+        kcal: 173 kcal
+        kj: 
+      - name: Dziczyzna
+        serving: 100g
+        kcal: 164 kcal
+        kj: 
+      - name: Dzik
+        serving: 100g
+        kcal: 160 kcal
+        kj: 
+      - name: Kaczka krzyżówka
+        serving: 100g
+        kcal: 211 kcal
+        kj: 
+      - name: Polędwica z dziczyzny
+        serving: 100g
+        kcal: 158 kcal
+        kj: 
+      - name: Polędwica z bizona
+        serving: 100g
+        kcal: 171 kcal
+        kj: 
+  - title: Kiełbasa
+    foods:
+    - title: 'Kiełbasa: tabela kalorii'
+      food:
+      - name: Andouille
+        serving: 100g
+        kcal: 232 kcal
+        kj: 
+      - name: Bekon
+        serving: 100g
+        kcal: 407 kcal
+        kj: 
+      - name: Kaszanka
+        serving: 100g
+        kcal: 379 kcal
+        kj: 
+      - name: Bockwurst
+        serving: 100g
+        kcal: 301 kcal
+        kj: 
+      - name: Bratwurst
+        serving: 100g
+        kcal: 297 kcal
+        kj: 
+      - name: Salceson
+        serving: 100g
+        kcal: 157 kcal
+        kj: 
+      - name: Pierś z kurczaka
+        serving: 100g
+        kcal: 79 kcal
+        kj: 
+      - name: Mięso z kurczaka
+        serving: 100g
+        kcal: 79 kcal
+        kj: 
+      - name: Sałatka z kurczaka
+        serving: 100g
+        kcal: 81 kcal
+        kj: 
+      - name: Chorizo
+        serving: 100g
+        kcal: 455 kcal
+        kj: 
+      - name: Szynka gotowana
+        serving: 100g
+        kcal: 133 kcal
+        kj: 
+      - name: Wołowina peklowana
+        serving: 100g
+        kcal: 153 kcal
+        kj: 
+      - name: Frankfurterki
+        serving: 100g
+        kcal: 305 kcal
+        kj: 
+      - name: Hot Dog
+        serving: 100g
+        kcal: 278 kcal
+        kj: 
+      - name: Kiełbasa włoska
+        serving: 100g
+        kcal: 149 kcal
+        kj: 
+      - name: Kiełbasa
+        serving: 100g
+        kcal: 309 kcal
+        kj: 
+      - name: Knackwurst
+        serving: 100g
+        kcal: 307 kcal
+        kj: 
+      - name: Landjaeger
+        serving: 100g
+        kcal: 352 kcal
+        kj: 
+      - name: Pasztetowa
+        serving: 100g
+        kcal: 326 kcal
+        kj: 
+      - name: Metka
+        serving: 100g
+        kcal: 310 kcal
+        kj: 
+      - name: Mortadella
+        serving: 100g
+        kcal: 311 kcal
+        kj: 
+      - name: Pastrami
+        serving: 100g
+        kcal: 133 kcal
+        kj: 
+      - name: Wieprzowina
+        serving: 100g
+        kcal: 247 kcal
+        kj: 
+      - name: Szynka parmezańska
+        serving: 100g
+        kcal: 195 kcal
+        kj: 
+      - name: Salami
+        serving: 100g
+        kcal: 336 kcal
+        kj: 
+      - name: Parówki
+        serving: 100g
+        kcal: 230 kcal
+        kj: 
+      - name: Kiełbasa wędzona
+        serving: 100g
+        kcal: 301 kcal
+        kj: 
+      - name: Kiełbasa biała
+        serving: 100g
+        kcal: 313 kcal
+        kj: 
+      - name: Pasztet
+        serving: 100g
+        kcal: 319 kcal
+        kj: 
+      - name: Kiełbasa bolońska
+        serving: 100g
+        kcal: 247 kcal
+        kj: 
+      - name: Kaszanka
+        serving: 100g
+        kcal: 379 kcal
+        kj: 
+      - name: Mielonka
+        serving: 100g
+        kcal: 117 kcal
+        kj: 
+    - title: 'Mięso i produkty mięsne: tabela kalorii'
+      food:
+      - name: Wołowina
+        serving: 100g
+        kcal: 248 kcal
+        kj: 
+      - name: Polędwica wołowa
+        serving: 100g
+        kcal: 218 kcal
+        kj: 
+      - name: Kurczak
+        serving: 100g
+        kcal: 219 kcal
+        kj: 
+      - name: Pierś z kurczaka
+        serving: 100g
+        kcal: 172 kcal
+        kj: 
+      - name: Tłuszcz z kurczaka
+        serving: 100g
+        kcal: 898 kcal
+        kj: 
+      - name: Wątróbka z kurczaka
+        serving: 100g
+        kcal: 167 kcal
+        kj: 
+      - name: Mięso z kurczaka
+        serving: 100g
+        kcal: 172 kcal
+        kj: 
+      - name: Skrzydełka z kurczaka
+        serving: 100g
+        kcal: 266 kcal
+        kj: 
+      - name: Karkówka
+        serving: 100g
+        kcal: 277 kcal
+        kj: 
+      - name: Kaczka
+        serving: 100g
+        kcal: 337 kcal
+        kj: 
+      - name: Filet wołowy
+        serving: 100g
+        kcal: 267 kcal
+        kj: 
+      - name: Wołowina mielona
+        serving: 100g
+        kcal: 246 kcal
+        kj: 
+      - name: Szynka
+        serving: 100g
+        kcal: 163 kcal
+        kj: 
+      - name: Struś
+        serving: 100g
+        kcal: 145 kcal
+        kj: 
+      - name: Wieprzowina
+        serving: 100g
+        kcal: 196 kcal
+        kj: 
+      - name: Kotlet schabowy
+        serving: 100g
+        kcal: 196 kcal
+        kj: 
+      - name: Polędwica wieprzowa
+        serving: 100g
+        kcal: 204 kcal
+        kj: 
+      - name: Pieczeń wieprzowa
+        serving: 100g
+        kcal: 254 kcal
+        kj: 
+      - name: Pieczeń wołowa
+        serving: 100g
+        kcal: 140 kcal
+        kj: 
+      - name: Udziec wołowy
+        serving: 100g
+        kcal: 182 kcal
+        kj: 
+      - name: Kotlet panierowany
+        serving: 100g
+        kcal: 156 kcal
+        kj: 
+      - name: Żeberka
+        serving: 100g
+        kcal: 238 kcal
+        kj: 
+      - name: Indyk
+        serving: 100g
+        kcal: 189 kcal
+        kj: 
+      - name: Pierś z indyka
+        serving: 100g
+        kcal: 135 kcal
+        kj: 
+      - name: Skrzydła z indyka
+        serving: 100g
+        kcal: 221 kcal
+        kj: 
+      - name: Żeberka wołowe
+        serving: 100g
+        kcal: 238 kcal
+        kj: 
+      - name: Udko z kurczaka
+        serving: 100g
+        kcal: 174 kcal
+        kj: 
+      - name: Mostek wołowy
+        serving: 100g
+        kcal: 242 kcal
+        kj: 
+      - name: Stek z łaty wołowej
+        serving: 100g
+        kcal: 194 kcal
+        kj: 
+      - name: Stek z łopatki wieprzowej
+        serving: 100g
+        kcal: 196 kcal
+        kj: 
+      - name: Stek z indyka
+        serving: 100g
+        kcal: 189 kcal
+        kj: 
+      - name: Podroby z kurczaka
+        serving: 100g
+        kcal: 158 kcal
+        kj: 
+      - name: Żołądki z kurczaka
+        serving: 100g
+        kcal: 146 kcal
+        kj: 
+      - name: Udko z indyka
+        serving: 100g
+        kcal: 208 kcal
+        kj: 
+      - name: Żeberka wieprzowe
+        serving: 100g
+        kcal: 212 kcal
+        kj: 
+      - name: Pieczone żeberka
+        serving: 100g
+        kcal: 333 kcal
+        kj: 
+      - name: Rostbef
+        serving: 100g
+        kcal: 130 kcal
+        kj: 
+      - name: Golonka wieprzowa
+        serving: 100g
+        kcal: 327 kcal
+        kj: 
+      - name: Łopatka wieprzowa
+        serving: 100g
+        kcal: 269 kcal
+        kj: 
+      - name: Karkówka wieprzowa
+        serving: 100g
+        kcal: 169 kcal
+        kj: 
+      - name: Antrykot wołowy
+        serving: 100g
+        kcal: 217 kcal
+        kj: 
+      - name: Baranina
+        serving: 100g
+        kcal: 234 kcal
+        kj: 
+      - name: Jagnięcina
+        serving: 100g
+        kcal: 202 kcal
+        kj: 
+      - name: Dziczyzna
+        serving: 100g
+        kcal: 164 kcal
+        kj: 
+  - title: Podroby
+    foods:
+    - title: 'Podroby: tabela kalorii'
+      food:
+      - name: Ozór wołowy
+        serving: 100g
+        kcal: 284 kcal
+        kj: 
+      - name: Podroby z kurczaka
+        serving: 100g
+        kcal: 277 kcal
+        kj: 
+      - name: Ozór wieprzowy
+        serving: 100g
+        kcal: 271 kcal
+        kj: 
+      - name: Flaczki
+        serving: 100g
+        kcal: 233 kcal
+        kj: 
+      - name: Ozór cielęcy
+        serving: 100g
+        kcal: 202 kcal
+        kj: 
+      - name: Móżdżek wołowy
+        serving: 100g
+        kcal: 196 kcal
+        kj: 
+      - name: Wątroba wołowa
+        serving: 100g
+        kcal: 191 kcal
+        kj: 
+      - name: Wątroba indycza
+        serving: 100g
+        kcal: 189 kcal
+        kj: 
+      - name: Serce cielęce
+        serving: 100g
+        kcal: 186 kcal
+        kj: 
+      - name: Serce kurczaka
+        serving: 100g
+        kcal: 185 kcal
+        kj: 
+      - name: Serce indycze
+        serving: 100g
+        kcal: 174 kcal
+        kj: 
+      - name: Podroby indycze
+        serving: 100g
+        kcal: 173 kcal
+        kj: 
+      - name: Wątróbka z kurczaka
+        serving: 100g
+        kcal: 172 kcal
+        kj: 
+      - name: Serce wołowe
+        serving: 100g
+        kcal: 165 kcal
+        kj: 
+      - name: Wątroba wieprzowa
+        serving: 100g
+        kcal: 165 kcal
+        kj: 
+      - name: Nerki cielęce
+        serving: 100g
+        kcal: 163 kcal
+        kj: 
+      - name: Nerki wołowe
+        serving: 100g
+        kcal: 158 kcal
+        kj: 
+      - name: Żołądek wieprzowy
+        serving: 100g
+        kcal: 157 kcal
+        kj: 
+      - name: Nerki wieprzowe
+        serving: 100g
+        kcal: 151 kcal
+        kj: 
+      - name: Serce wieprzowe
+        serving: 100g
+        kcal: 148 kcal
+        kj: 
+      - name: Żołądek z kurczaka
+        serving: 100g
+        kcal: 148 kcal
+        kj: 
+      - name: Żołądek indyczy
+        serving: 100g
+        kcal: 148 kcal
+        kj: 
+      - name: Móżdżek wieprzowy
+        serving: 100g
+        kcal: 138 kcal
+        kj: 
+      - name: Wątróbka kacza
+        serving: 100g
+        kcal: 136 kcal
+        kj: 
+      - name: Móżdżek cielęcy
+        serving: 100g
+        kcal: 136 kcal
+        kj: 
+      - name: Wątróbka gęsia
+        serving: 100g
+        kcal: 133 kcal
+        kj: 
+      - name: Płuca wieprzowe
+        serving: 100g
+        kcal: 99 kcal
+        kj: 
+      - name: Płuca wołowe
+        serving: 100g
+        kcal: 120 kcal
+        kj: 
+      - name: Wątróbka cielęca
+        serving: 100g
+        kcal: 192 kcal
+        kj: 
+      - name: Śledziona wołowa
+        serving: 100g
+        kcal: 271 kcal
+        kj: 
+      - name: Śledziona wieprzowa
+        serving: 100g
+        kcal: 219 kcal
+        kj: 
+      - name: Ratki kurze
+        serving: 100g
+        kcal: 215 kcal
+        kj: 
+      - name: Ogon wołowy
+        serving: 100g
+        kcal: 184 kcal
+        kj: 
+      - name: Ogon wieprzowy
+        serving: 100g
+        kcal: 273 kcal
+        kj: 
+    - title: 'Wędliny i mięso obiadowe: tabela kalorii'
+      food:
+      - name: Szynka pieczona
+        serving: 100g
+        kcal: 343 kcal
+        kj: 
+      - name: Salami wołowe
+        serving: 100g
+        kcal: 375 kcal
+        kj: 
+      - name: Szynka gotowana
+        serving: 100g
+        kcal: 126 kcal
+        kj: 
+      - name: Kiełbasa bolońska
+        serving: 100g
+        kcal: 247 kcal
+        kj: 
+      - name: Bresaola
+        serving: 100g
+        kcal: 178 kcal
+        kj: 
+      - name: Capicola
+        serving: 100g
+        kcal: 110 kcal
+        kj: 
+      - name: Chorizo
+        serving: 100g
+        kcal: 455 kcal
+        kj: 
+      - name: Wołowina peklowana
+        serving: 100g
+        kcal: 251 kcal
+        kj: 
+      - name: Szynka
+        serving: 100g
+        kcal: 145 kcal
+        kj: 
+      - name: Kiełbasa szynkowa
+        serving: 100g
+        kcal: 164 kcal
+        kj: 
+      - name: Salceson
+        serving: 100g
+        kcal: 157 kcal
+        kj: 
+      - name: Pasztetowa
+        serving: 100g
+        kcal: 326 kcal
+        kj: 
+      - name: Szynka parmeńska
+        serving: 100g
+        kcal: 345 kcal
+        kj: 
+      - name: Pastrami
+        serving: 100g
+        kcal: 133 kcal
+        kj: 
+      - name: Pieczeń wieprzowa
+        serving: 100g
+        kcal: 247 kcal
+        kj: 
+      - name: Prosciutto
+        serving: 100g
+        kcal: 195 kcal
+        kj: 
+      - name: Pieczeń wołowa
+        serving: 100g
+        kcal: 267 kcal
+        kj: 
+      - name: Salami
+        serving: 100g
+        kcal: 336 kcal
+        kj: 
+      - name: Szynka serrano
+        serving: 100g
+        kcal: 300 kcal
+        kj: 
+      - name: Szynka wędzona
+        serving: 100g
+        kcal: 107 kcal
+        kj: 
+      - name: Ozór
+        serving: 100g
+        kcal: 284 kcal
+        kj: 
+      - name: Pierś z indyka
+        serving: 100g
+        kcal: 104 kcal
+        kj: 
+      - name: Szynka z indyka
+        serving: 100g
+        kcal: 126 kcal
+        kj: 
+      - name: Salami z indyka
+        serving: 100g
+        kcal: 152 kcal
+        kj: 
+      - name: Filet z piersi kurczaka
+        serving: 100g
+        kcal: 79 kcal
+        kj: 
+      - name: Pierś z indyka wędzona
+        serving: 100g
+        kcal: 104 kcal
+        kj: 
+      - name: Pierś z indyka pieczona w piekarniku
+        serving: 100g
+        kcal: 104 kcal
+        kj: 
+  - title: Wieprzowina
+    foods:
+    - title: 'Wieprzowina: tabela kalorii'
+      food:
+      - name: Bekon
+        serving: 100g
+        kcal: 407 kcal
+        kj: 
+      - name: Wieprzowina mielona
+        serving: 100g
+        kcal: 263 kcal
+        kj: 
+      - name: Smalec
+        serving: 100g
+        kcal: 898 kcal
+        kj: 
+      - name: Klops
+        serving: 100g
+        kcal: 89 kcal
+        kj: 
+      - name: Szynka parmeńska
+        serving: 100g
+        kcal: 261 kcal
+        kj: 
+      - name: Ucho wieprzowe
+        serving: 100g
+        kcal: 166 kcal
+        kj: 
+      - name: Tłuszcz wieprzowy
+        serving: 100g
+        kcal: 638 kcal
+        kj: 
+      - name: Ogon wieprzowy
+        serving: 100g
+        kcal: 396 kcal
+        kj: 
+      - name: Ratki wieprzowe
+        serving: 100g
+        kcal: 243 kcal
+        kj: 
+      - name: Bekon wieprzowy
+        serving: 100g
+        kcal: 407 kcal
+        kj: 
+      - name: Boczek wieprzowy
+        serving: 100g
+        kcal: 518 kcal
+        kj: 
+      - name: Nóżki wieprzowe
+        serving: 100g
+        kcal: 201 kcal
+        kj: 
+      - name: Schab wieprzowy
+        serving: 100g
+        kcal: 143 kcal
+        kj: 
+      - name: Klops wieprzowy
+        serving: 100g
+        kcal: 243 kcal
+        kj: 
+      - name: Gulasz wieprzowy
+        serving: 100g
+        kcal: 73 kcal
+        kj: 
+      - name: Żeberka wieprzowe
+        serving: 100g
+        kcal: 292 kcal
+        kj: 
+      - name: Pieczeń wieprzowa
+        serving: 100g
+        kcal: 194 kcal
+        kj: 
+      - name: Kiełbasa wieprzowa
+        serving: 100g
+        kcal: 339 kcal
+        kj: 
+      - name: Golonka wieprzowa
+        serving: 100g
+        kcal: 172 kcal
+        kj: 
+      - name: Łopatka wieprzowa
+        serving: 100g
+        kcal: 269 kcal
+        kj: 
+      - name: Karkówka wieprzowa
+        serving: 100g
+        kcal: 232 kcal
+        kj: 
+      - name: Żołądek wieprzowy
+        serving: 100g
+        kcal: 250 kcal
+        kj: 
+      - name: Mięso solone
+        serving: 100g
+        kcal: 286 kcal
+        kj: 
+      - name: Szynka serrano
+        serving: 100g
+        kcal: 339 kcal
+        kj: 
+      - name: Kotlety wieprzowe
+        serving: 100g
+        kcal: 131 kcal
+        kj: 
+      - name: Salceson
+        serving: 100g
+        kcal: 309 kcal
+        kj: 
+      - name: Flaczki wieprzowe
+        serving: 100g
+        kcal: 233 kcal
+        kj: 
+      - name: Wieprzowina solona
+        serving: 100g
+        kcal: 286 kcal
+        kj: 
+      - name: Żeberka płaty wieprzowe
+        serving: 100g
+        kcal: 396 kcal
+        kj: 
+      - name: Stek z łopatki wieprzowej
+        serving: 100g
+        kcal: 232 kcal
+        kj: 
+    - title: 'Wołowina i cielęcina: tabela kalorii'
+      food:
+      - name: Wołowina
+        serving: 100g
+        kcal: 171 kcal
+        kj: 
+      - name: Mostek wołowy
+        serving: 100g
+        kcal: 137 kcal
+        kj: 
+      - name: Filet wołowy
+        serving: 100g
+        kcal: 189 kcal
+        kj: 
+      - name: Gulasz wołowy
+        serving: 100g
+        kcal: 123 kcal
+        kj: 
+      - name: Karczek wołowy
+        serving: 100g
+        kcal: 213 kcal
+        kj: 
+      - name: Trzustka wołowa
+        serving: 100g
+        kcal: 271 kcal
+        kj: 
+      - name: Mielonka wołowa
+        serving: 100g
+        kcal: 247 kcal
+        kj: 
+      - name: Żeberka wołowe
+        serving: 100g
+        kcal: 196 kcal
+        kj: 
+      - name: Łój wołowy
+        serving: 100g
+        kcal: 902 kcal
+        kj: 
+      - name: Grasica wołowa
+        serving: 100g
+        kcal: 319 kcal
+        kj: 
+      - name: Flaczki wołowe
+        serving: 100g
+        kcal: 94 kcal
+        kj: 
+      - name: Karkówka wołowa
+        serving: 100g
+        kcal: 137 kcal
+        kj: 
+      - name: Filet z polędwicy wołowej
+        serving: 100g
+        kcal: 207 kcal
+        kj: 
+      - name: Mielona wołowina
+        serving: 100g
+        kcal: 241 kcal
+        kj: 
+      - name: Mielona cielęcina
+        serving: 100g
+        kcal: 143 kcal
+        kj: 
+      - name: Pieczeń wołowa
+        serving: 100g
+        kcal: 187 kcal
+        kj: 
+      - name: Rumsztyk
+        serving: 100g
+        kcal: 171 kcal
+        kj: 
+      - name: Wołowina gulaszowa
+        serving: 100g
+        kcal: 191 kcal
+        kj: 
+      - name: Cielęcina
+        serving: 100g
+        kcal: 282 kcal
+        kj: 
+      - name: Piersi cielęce
+        serving: 100g
+        kcal: 282 kcal
+        kj: 
+      - name: Gicz cielęca
+        serving: 100g
+        kcal: 211 kcal
+        kj: 
+      - name: Goleń cielęca
+        serving: 100g
+        kcal: 177 kcal
+        kj: 
+      - name: Łopatka cielęca
+        serving: 100g
+        kcal: 183 kcal
+        kj: 
+      - name: Zrazowa wołowa
+        serving: 100g
+        kcal: 182 kcal
+        kj: 
+      - name: Pieczona cielęcina
+        serving: 100g
+        kcal: 175 kcal
+        kj: 
+      - name: Zrazowa cielęca
+        serving: 100g
+        kcal: 204 kcal
+        kj: 
+      - name: Tłuszcz wołowy
+        serving: 100g
+        kcal: 854 kcal
+        kj: 
+      - name: Karkówka pieczona
+        serving: 100g
+        kcal: 141 kcal
+        kj: 
+      - name: Stek z łaty
+        serving: 100g
+        kcal: 194 kcal
+        kj: 
+      - name: Stek z mostka
+        serving: 100g
+        kcal: 205 kcal
+        kj: 
+      - name: Polędwica cielęca
+        serving: 100g
+        kcal: 217 kcal
+        kj: 
+      - name: Rozbratel
+        serving: 100g
+        kcal: 217 kcal
+        kj: 
+      - name: Rostbef
+        serving: 100g
+        kcal: 117 kcal
+        kj: 
+      - name: Schab z kością
+        serving: 100g
+        kcal: 404 kcal
+        kj: 
+      - name: Karkówka mielona
+        serving: 100g
+        kcal: 250 kcal
+        kj: 
+- title: Tabela kalorii cukierki i słodycze
+  categories:
+  - title: Ciastka i ciasta
+    foods:
+    - title: 'Ciastka i ciasta: tabela kalorii'
+      food:
+      - name: Anielskie ciasto na białkach
+        serving: 100g
+        kcal: 258 kcal
+        kj: 
+      - name: Szarlotka
+        serving: 100g
+        kcal: 252 kcal
+        kj: 
+      - name: Strudel jabłkowy
+        serving: 100g
+        kcal: 274 kcal
+        kj: 
+      - name: Tort urodzinowy
+        serving: 100g
+        kcal: 465 kcal
+        kj: 
+      - name: Tort Szwarcwaldzki
+        serving: 100g
+        kcal: 264 kcal
+        kj: 
+      - name: Muffinka jagodowa
+        serving: 100g
+        kcal: 377 kcal
+        kj: 
+      - name: Ciasto jagodowe
+        serving: 100g
+        kcal: 232 kcal
+        kj: 
+      - name: Ciasto marchewkowe
+        serving: 100g
+        kcal: 408 kcal
+        kj: 
+      - name: Sernik
+        serving: 100g
+        kcal: 321 kcal
+        kj: 
+      - name: Ciasto czekoladowe
+        serving: 100g
+        kcal: 389 kcal
+        kj: 
+      - name: Tort z musu czekoladowego
+        serving: 100g
+        kcal: 260 kcal
+        kj: 
+      - name: Muffinka czekoladowa
+        serving: 100g
+        kcal: 420 kcal
+        kj: 
+      - name: Ciasto kokosowe
+        serving: 100g
+        kcal: 356 kcal
+        kj: 
+      - name: Profiterole
+        serving: 100g
+        kcal: 334 kcal
+        kj: 
+      - name: Babeczka
+        serving: 100g
+        kcal: 305 kcal
+        kj: 
+      - name: Pączek
+        serving: 100g
+        kcal: 403 kcal
+        kj: 
+      - name: Flan
+        serving: 100g
+        kcal: 145 kcal
+        kj: 
+      - name: Ciasto czekoladowe bez mąki
+        serving: 100g
+        kcal: 509 kcal
+        kj: 
+      - name: Ciasto owocowe
+        serving: 100g
+        kcal: 324 kcal
+        kj: 
+      - name: Piernik
+        serving: 100g
+        kcal: 356 kcal
+        kj: 
+      - name: Ciasto z lodów
+        serving: 100g
+        kcal: 200 kcal
+        kj: 
+      - name: Ciasto Trzech Króli
+        serving: 100g
+        kcal: 377 kcal
+        kj: 
+      - name: Ciasto cytrynowe
+        serving: 100g
+        kcal: 352 kcal
+        kj: 
+      - name: Babka marmurkowa
+        serving: 100g
+        kcal: 339 kcal
+        kj: 
+      - name: Beza
+        serving: 100g
+        kcal: 285 kcal
+        kj: 
+      - name: Naleśnik
+        serving: 100g
+        kcal: 227 kcal
+        kj: 
+      - name: Placek brzoskwiniowy
+        serving: 100g
+        kcal: 223 kcal
+        kj: 
+      - name: Ciasto śliwkowe
+        serving: 100g
+        kcal: 109 kcal
+        kj: 
+      - name: Makowiec
+        serving: 100g
+        kcal: 394 kcal
+        kj: 
+      - name: Ciastka Profiterole
+        serving: 100g
+        kcal: 334 kcal
+        kj: 
+      - name: Ciasto francuskie
+        serving: 100g
+        kcal: 558 kcal
+        kj: 
+      - name: Placek z malinami
+        serving: 100g
+        kcal: 240 kcal
+        kj: 
+      - name: Placek z rabarbarem
+        serving: 100g
+        kcal: 245 kcal
+        kj: 
+      - name: Tort Sachera
+        serving: 100g
+        kcal: 352 kcal
+        kj: 
+      - name: Biszkopt
+        serving: 100g
+        kcal: 289 kcal
+        kj: 
+      - name: Placek z truskawkami
+        serving: 100g
+        kcal: 230 kcal
+        kj: 
+      - name: Tarta Tatin
+        serving: 100g
+        kcal: 210 kcal
+        kj: 
+      - name: Tiramisu
+        serving: 100g
+        kcal: 283 kcal
+        kj: 
+      - name: Ciasto Tiramisu
+        serving: 100g
+        kcal: 291 kcal
+        kj: 
+      - name: Deser Trifle
+        serving: 100g
+        kcal: 180 kcal
+        kj: 
+      - name: Gofry
+        serving: 100g
+        kcal: 312 kcal
+        kj: 
+      - name: Tort weselny
+        serving: 100g
+        kcal: 381 kcal
+        kj: 
+      - name: Ciasto na maślance
+        serving: 100g
+        kcal: 380 kcal
+        kj: 
+      - name: Placek z wiśniami
+        serving: 100g
+        kcal: 260 kcal
+        kj: 
+      - name: Rożek jabłkowy
+        serving: 100g
+        kcal: 348 kcal
+        kj: 
+      - name: Babka piaskowa
+        serving: 100g
+        kcal: 390 kcal
+        kj: 
+      - name: Placek z truskawkami i rabarbarem
+        serving: 100g
+        kcal: 281 kcal
+        kj: 
+      - name: Rolada
+        serving: 100g
+        kcal: 439 kcal
+        kj: 
+      - name: Ciasto z bananów i toffi
+        serving: 100g
+        kcal: 395 kcal
+        kj: 
+      - name: Biszkopty czarno-białe
+        serving: 100g
+        kcal: 381 kcal
+        kj: 
+      - name: Ciasto z kruszonką
+        serving: 100g
+        kcal: 441 kcal
+        kj: 
+      - name: Pączek francuski
+        serving: 100g
+        kcal: 412 kcal
+        kj: 
+      - name: Ciasto z okrągłej formy
+        serving: 100g
+        kcal: 370 kcal
+        kj: 
+      - name: Duet
+        serving: 100g
+        kcal: 267 kcal
+        kj: 
+      - name: Miodownik
+        serving: 100g
+        kcal: 282 kcal
+        kj: 
+      - name: Sękacz
+        serving: 100g
+        kcal: 477 kcal
+        kj: 
+      - name: Wuzetka
+        serving: 100g
+        kcal: 353 kcal
+        kj: 
+      - name: Kremówka papieska
+        serving: 100g
+        kcal: 520 kcal
+        kj: 
+      - name: Strucla z makiem
+        serving: 100g
+        kcal: 345 kcal
+        kj: 
+      - name: Ciasto drożdżowe
+        serving: 100g
+        kcal: 375 kcal
+        kj: 
+      - name: Keks
+        serving: 100g
+        kcal: 376 kcal
+        kj: 
+      - name: Rolada biszkoptowa z kremem
+        serving: 100g
+        kcal: 428 kcal
+        kj: 
+      - name: Mazurek wielkanocny
+        serving: 100g
+        kcal: 475 kcal
+        kj: 
+    - title: 'Cukierki i słodycze: tabela kalorii'
+      food:
+      - name: After Eight
+        serving: 100g
+        kcal: 452 kcal
+        kj: 
+      - name: Jabłko w polewie cukrowej
+        serving: 100g
+        kcal: 152 kcal
+        kj: 
+      - name: Laseczka cukrowa
+        serving: 100g
+        kcal: 423 kcal
+        kj: 
+      - name: Celebrations
+        serving: 100g
+        kcal: 490 kcal
+        kj: 
+      - name: Baton czekoladowy
+        serving: 100g
+        kcal: 533 kcal
+        kj: 
+      - name: Chipsy czekoladowe
+        serving: 100g
+        kcal: 493 kcal
+        kj: 
+      - name: Ciastka
+        serving: 100g
+        kcal: 488 kcal
+        kj: 
+      - name: Wata cukrowa
+        serving: 100g
+        kcal: 643 kcal
+        kj: 
+      - name: Chlebojajo
+        serving: 100g
+        kcal: 196 kcal
+        kj: 
+      - name: Ferrero Rocher
+        serving: 100g
+        kcal: 576 kcal
+        kj: 
+      - name: Ciastko szczęścia
+        serving: 100g
+        kcal: 214 kcal
+        kj: 
+      - name: Baton granola
+        serving: 100g
+        kcal: 452 kcal
+        kj: 
+      - name: Żelki misie
+        serving: 100g
+        kcal: 316 kcal
+        kj: 
+      - name: Hanuta
+        serving: 100g
+        kcal: 541 kcal
+        kj: 
+      - name: Fasolki żelowe
+        serving: 100g
+        kcal: 354 kcal
+        kj: 
+      - name: Kit Kat
+        serving: 100g
+        kcal: 521 kcal
+        kj: 
+      - name: Lukrecja
+        serving: 100g
+        kcal: 375 kcal
+        kj: 
+      - name: M&M’s
+        serving: 100g
+        kcal: 479 kcal
+        kj: 
+      - name: Maltesers
+        serving: 100g
+        kcal: 498 kcal
+        kj: 
+      - name: Pianka żelowa
+        serving: 100g
+        kcal: 318 kcal
+        kj: 
+      - name: Marcepan
+        serving: 100g
+        kcal: 411 kcal
+        kj: 
+      - name: Milky Way
+        serving: 100g
+        kcal: 449 kcal
+        kj: 
+      - name: Popcorn
+        serving: 100g
+        kcal: 582 kcal
+        kj: 
+      - name: Pestki dyni
+        serving: 100g
+        kcal: 560 kcal
+        kj: 
+      - name: Pudding ryżowy
+        serving: 100g
+        kcal: 134 kcal
+        kj: 
+      - name: Pieczone migdały
+        serving: 100g
+        kcal: 452 kcal
+        kj: 
+      - name: Rolo
+        serving: 100g
+        kcal: 474 kcal
+        kj: 
+      - name: Semolina
+        serving: 100g
+        kcal: 340 kcal
+        kj: 
+      - name: Skittles
+        serving: 100g
+        kcal: 405 kcal
+        kj: 
+      - name: Smarties
+        serving: 100g
+        kcal: 357 kcal
+        kj: 
+      - name: Snickers
+        serving: 100g
+        kcal: 484 kcal
+        kj: 
+      - name: Ciasteczka Speculoos
+        serving: 100g
+        kcal: 469 kcal
+        kj: 
+      - name: Toblerone
+        serving: 100g
+        kcal: 525 kcal
+        kj: 
+      - name: Trifle
+        serving: 100g
+        kcal: 186 kcal
+        kj: 
+      - name: Twix
+        serving: 100g
+        kcal: 495 kcal
+        kj: 
+      - name: Gofry
+        serving: 100g
+        kcal: 272 kcal
+        kj: 
+      - name: Czekolada
+        serving: 100g
+        kcal: 529 kcal
+        kj: 
+      - name: Czekoladki Lindt
+        serving: 100g
+        kcal: 548 kcal
+        kj: 
+      - name: Krakersy zwierzątka
+        serving: 100g
+        kcal: 446 kcal
+        kj: 
+      - name: Drażetki
+        serving: 100g
+        kcal: 429 kcal
+        kj: 
+      - name: Lizak
+        serving: 100g
+        kcal: 392 kcal
+        kj: 
+      - name: Baton Mars
+        serving: 100g
+        kcal: 448 kcal
+        kj: 
+      - name: Baton z orzeszków ziemnych
+        serving: 100g
+        kcal: 533 kcal
+        kj: 
+      - name: Krokant z orzeszków ziemnych
+        serving: 100g
+        kcal: 183 kcal
+        kj: 
+      - name: Pop Rocks
+        serving: 100g
+        kcal: 358 kcal
+        kj: 
+      - name: Ciasteczka spritz
+        serving: 100g
+        kcal: 500 kcal
+        kj: 
+      - name: Ciasteczka z masłem orzechowym
+        serving: 100g
+        kcal: 475 kcal
+        kj: 
+      - name: Michałki
+        serving: 100g
+        kcal: 518 kcal
+        kj: 
+      - name: Chałwa
+        serving: 100g
+        kcal: 522 kcal
+        kj: 
+      - name: Lion
+        serving: 100g
+        kcal: 493 kcal
+        kj: 
+      - name: Pawełek
+        serving: 100g
+        kcal: 466 kcal
+        kj: 
+      - name: Duplo
+        serving: 100g
+        kcal: 552 kcal
+        kj: 
+      - name: WW
+        serving: 100g
+        kcal: 516 kcal
+        kj: 
+      - name: Prince Polo
+        serving: 100g
+        kcal: 535 kcal
+        kj: 
+      - name: Princessa
+        serving: 100g
+        kcal: 542 kcal
+        kj: 
+      - name: Bounty
+        serving: 100g
+        kcal: 488 kcal
+        kj: 
+      - name: 3 Bit
+        serving: 100g
+        kcal: 530 kcal
+        kj: 
+      - name: Mars
+        serving: 100g
+        kcal: 449 kcal
+        kj: 
+      - name: Sezamki
+        serving: 100g
+        kcal: 512 kcal
+        kj: 
+      - name: Werther’s Original
+        serving: 100g
+        kcal: 428 kcal
+        kj: 
+      - name: Kopiko
+        serving: 100g
+        kcal: 438 kcal
+        kj: 
+      - name: Mentos
+        serving: 100g
+        kcal: 390 kcal
+        kj: 
+      - name: Tic Tac
+        serving: 100g
+        kcal: 395 kcal
+        kj: 
+      - name: Halls
+        serving: 100g
+        kcal: 390 kcal
+        kj: 
+      - name: Jeżyki
+        serving: 100g
+        kcal: 481 kcal
+        kj: 
+      - name: Delicje
+        serving: 100g
+        kcal: 370 kcal
+        kj: 
+  - title: Lody i desery mrożone
+    foods:
+    - title: 'Lody i desery mrożone: tabela kalorii'
+      food:
+      - name: Lody czekoladowe
+        serving: 100g
+        kcal: 216 kcal
+        kj: 
+      - name: Lody kawowe
+        serving: 100g
+        kcal: 236 kcal
+        kj: 
+      - name: Lody Drumsticks
+        serving: 100g
+        kcal: 255 kcal
+        kj: 
+      - name: Magnum
+        serving: 100g
+        kcal: 300 kcal
+        kj: 
+      - name: Magnum z migdałami
+        serving: 100g
+        kcal: 315 kcal
+        kj: 
+      - name: Magnum Gold
+        serving: 100g
+        kcal: 341 kcal
+        kj: 
+      - name: Magnum w białej polewie
+        serving: 100g
+        kcal: 297 kcal
+        kj: 
+      - name: McFlurry
+        serving: 100g
+        kcal: 153 kcal
+        kj: 
+      - name: McFlurry Oreo
+        serving: 100g
+        kcal: 186 kcal
+        kj: 
+      - name: Mini Milk
+        serving: 100g
+        kcal: 120 kcal
+        kj: 
+      - name: McFlurry Smarties
+        serving: 100g
+        kcal: 198 kcal
+        kj: 
+      - name: Lody włoskie
+        serving: 100g
+        kcal: 222 kcal
+        kj: 
+      - name: Solero
+        serving: 100g
+        kcal: 100 kcal
+        kj: 
+      - name: Lody truskawkowe
+        serving: 100g
+        kcal: 236 kcal
+        kj: 
+      - name: Lody Sundae
+        serving: 100g
+        kcal: 215 kcal
+        kj: 
+      - name: Lody waniliowe
+        serving: 100g
+        kcal: 201 kcal
+        kj: 
+      - name: Lody typu śnieżka
+        serving: 100g
+        kcal: 237 kcal
+        kj: 
+      - name: Lody z posypką czekoladową
+        serving: 100g
+        kcal: 215 kcal
+        kj: 
+      - name: Magnum z podwójnym karmelem
+        serving: 100g
+        kcal: 355 kcal
+        kj: 
+      - name: Magnum z podwójną czekoladą
+        serving: 100g
+        kcal: 380 kcal
+        kj: 
+      - name: Lód Snickers
+        serving: 100g
+        kcal: 360 kcal
+        kj: 
+      - name: Sundae truskawkowe
+        serving: 100g
+        kcal: 158 kcal
+        kj: 
+      - name: Lody Cookie Dough
+        serving: 100g
+        kcal: 200 kcal
+        kj: 
+      - name: Lody miętowe z posypką czekoladową
+        serving: 100g
+        kcal: 239 kcal
+        kj: 
+      - name: Big Milk
+        serving: 100g
+        kcal: 140 kcal
+        kj: 
+      - name: Carte d’Or Tiramisu
+        serving: 100g
+        kcal: 190 kcal
+        kj: 
+      - name: Algida Smietankowa
+        serving: 100g
+        kcal: 80 kcal
+        kj: 
+      - name: Grand Koral
+        serving: 100g
+        kcal: 204 kcal
+        kj: 
+      - name: Rożek Koral
+        serving: 100g
+        kcal: 264 kcal
+        kj: 
+      - name: Oskar Koral
+        serving: 100g
+        kcal: 308 kcal
+        kj: 
+      - name: Gigant Koral
+        serving: 100g
+        kcal: 140 kcal
+        kj: 
+      - name: Solo Koral
+        serving: 100g
+        kcal: 121 kcal
+        kj: 
+      - name: Top Milker Koral
+        serving: 100g
+        kcal: 94 kcal
+        kj: 
+      - name: Milord Nordis
+        serving: 100g
+        kcal: 304 kcal
+        kj: 
+      - name: Tytan Zielona Budka
+        serving: 100g
+        kcal: 249 kcal
+        kj: 
+- title: Tabela kalorii napoje i napitki
+  categories:
+  - title: Napoje alkoholowe i napitki
+    foods:
+    - title: 'Napoje alkoholowe i napitki: tabela kalorii'
+      food:
+      - name: Wódka
+        serving: 100ml
+        kcal: 231 kcal
+        kj: 
+      - name: Piwo
+        serving: 100ml
+        kcal: 43 kcal
+        kj: 
+      - name: Wino
+        serving: 100ml
+        kcal: 83 kcal
+        kj: 
+      - name: Wino białe
+        serving: 100ml
+        kcal: 82 kcal
+        kj: 
+      - name: Wino czerwone
+        serving: 100ml
+        kcal: 85 kcal
+        kj: 
+      - name: Tequila
+        serving: 100ml
+        kcal: 110 kcal
+        kj: 
+      - name: Gin
+        serving: 100ml
+        kcal: 263 kcal
+        kj: 
+      - name: Jack Daniel’s
+        serving: 100ml
+        kcal: 146 kcal
+        kj: 
+      - name: Szampan
+        serving: 100ml
+        kcal: 75 kcal
+        kj: 
+      - name: Rum
+        serving: 100ml
+        kcal: 231 kcal
+        kj: 
+      - name: Szkocka
+        serving: 100ml
+        kcal: 222 kcal
+        kj: 
+      - name: Bourbon
+        serving: 100ml
+        kcal: 233 kcal
+        kj: 
+      - name: Baileys
+        serving: 100ml
+        kcal: 327 kcal
+        kj: 
+      - name: Prosecco
+        serving: 100ml
+        kcal: 66 kcal
+        kj: 
+      - name: Whisky
+        serving: 100ml
+        kcal: 250 kcal
+        kj: 
+      - name: Sangria
+        serving: 100ml
+        kcal: 96 kcal
+        kj: 
+      - name: Kahlua
+        serving: 100ml
+        kcal: 180 kcal
+        kj: 
+      - name: Southern Comfort
+        serving: 100ml
+        kcal: 247 kcal
+        kj: 
+      - name: Amaretto
+        serving: 100ml
+        kcal: 310 kcal
+        kj: 
+      - name: Jim Beam
+        serving: 100ml
+        kcal: 222 kcal
+        kj: 
+      - name: Wino różowe
+        serving: 100ml
+        kcal: 71 kcal
+        kj: 
+      - name: Brandy
+        serving: 100ml
+        kcal: 213 kcal
+        kj: 
+      - name: Grand Marnier
+        serving: 100ml
+        kcal: 253 kcal
+        kj: 
+      - name: Sambuca
+        serving: 100ml
+        kcal: 333 kcal
+        kj: 
+      - name: Triple Sec
+        serving: 100ml
+        kcal: 153 kcal
+        kj: 
+      - name: Koniak
+        serving: 100ml
+        kcal: 235 kcal
+        kj: 
+      - name: Cointreau
+        serving: 100ml
+        kcal: 320 kcal
+        kj: 
+      - name: Vermouth
+        serving: 100ml
+        kcal: 130 kcal
+        kj: 
+      - name: Frangelico
+        serving: 100ml
+        kcal: 238 kcal
+        kj: 
+      - name: Bailey’s Irish Cream
+        serving: 100ml
+        kcal: 327 kcal
+        kj: 
+      - name: Absinthe
+        serving: 100ml
+        kcal: 348 kcal
+        kj: 
+      - name: Sherry
+        serving: 100ml
+        kcal: 116 kcal
+        kj: 
+      - name: Drambuie
+        serving: 100ml
+        kcal: 358 kcal
+        kj: 
+      - name: Chambord
+        serving: 100ml
+        kcal: 348 kcal
+        kj: 
+      - name: Midori
+        serving: 100ml
+        kcal: 267 kcal
+        kj: 
+      - name: Blue Curacao
+        serving: 100ml
+        kcal: 243 kcal
+        kj: 
+      - name: Advocaat
+        serving: 100ml
+        kcal: 283 kcal
+        kj: 
+      - name: Glenfiddich
+        serving: 100ml
+        kcal: 230 kcal
+        kj: 
+      - name: Poncz
+        serving: 100ml
+        kcal: 62 kcal
+        kj: 
+      - name: Asti
+        serving: 100ml
+        kcal: 138 kcal
+        kj: 
+      - name: Likier
+        serving: 100ml
+        kcal: 250 kcal
+        kj: 
+      - name: Canadian Whiskey
+        serving: 100ml
+        kcal: 216 kcal
+        kj: 
+      - name: Cydr
+        serving: 100ml
+        kcal: 49 kcal
+        kj: 
+      - name: Tarninówka
+        serving: 100ml
+        kcal: 332 kcal
+        kj: 
+      - name: Whiskey Irlandzka
+        serving: 100ml
+        kcal: 233 kcal
+        kj: 
+      - name: Jagermeister
+        serving: 100ml
+        kcal: 250 kcal
+        kj: 
+      - name: Bimber
+        serving: 100ml
+        kcal: 220 kcal
+        kj: 
+      - name: Sake
+        serving: 100ml
+        kcal: 138 kcal
+        kj: 
+      - name: Miód pitny
+        serving: 100ml
+        kcal: 119 kcal
+        kj: 
+      - name: Grzaniec
+        serving: 100ml
+        kcal: 105 kcal
+        kj: 
+      - name: Wiśniówka
+        serving: 100ml
+        kcal: 217 kcal
+        kj: 
+      - name: Śliwowica
+        serving: 100ml
+        kcal: 260 kcal
+        kj: 
+      - name: Żubrówka
+        serving: 100ml
+        kcal: 231 kcal
+        kj: 
+    - title: 'Napoje bezalkoholowe i napitki: tabela kalorii'
+      food:
+      - name: Kawa
+        serving: 100ml
+        kcal: 1 kcal
+        kj: 
+      - name: Mleko
+        serving: 100ml
+        kcal: 61 kcal
+        kj: 
+      - name: Cola dietetyczna
+        serving: 100ml
+        kcal: 1 kcal
+        kj: 
+      - name: Coca Cola
+        serving: 100ml
+        kcal: 42 kcal
+        kj: 
+      - name: Czekolada na gorąco
+        serving: 100ml
+        kcal: 89 kcal
+        kj: 
+      - name: Herbata
+        serving: 100ml
+        kcal: 1 kcal
+        kj: 
+      - name: Gatorade
+        serving: 100ml
+        kcal: 23 kcal
+        kj: 
+      - name: Mleko sojowe
+        serving: 100ml
+        kcal: 45 kcal
+        kj: 
+      - name: Woda
+        serving: 100ml
+        kcal: 0 kcal
+        kj: 
+      - name: Smoothie
+        serving: 100ml
+        kcal: 37 kcal
+        kj: 
+      - name: Masala czaj
+        serving: 100ml
+        kcal: 0 kcal
+        kj: 
+      - name: Milkshake (w proszku)
+        serving: 100ml
+        kcal: 329 kcal
+        kj: 
+      - name: Lemoniada
+        serving: 100ml
+        kcal: 42 kcal
+        kj: 
+      - name: Coca Cola Zero
+        serving: 100ml
+        kcal: 1 kcal
+        kj: 
+      - name: Mleko czekoladowe
+        serving: 100ml
+        kcal: 89 kcal
+        kj: 
+      - name: Powerade
+        serving: 100ml
+        kcal: 16 kcal
+        kj: 
+      - name: Piwo bezalkoholowe
+        serving: 100ml
+        kcal: 37 kcal
+        kj: 
+      - name: Kombucha
+        serving: 100ml
+        kcal: 13 kcal
+        kj: 
+      - name: Milkshake czekoladowy
+        serving: 100ml
+        kcal: 125 kcal
+        kj: 
+      - name: Milkshake truskawkowy
+        serving: 100ml
+        kcal: 113 kcal
+        kj: 
+      - name: Milkshake waniliowy
+        serving: 100ml
+        kcal: 149 kcal
+        kj: 
+      - name: Cola
+        serving: 100ml
+        kcal: 42 kcal
+        kj: 
+      - name: Ice Tea
+        serving: 100ml
+        kcal: 27 kcal
+        kj: 
+      - name: Yerba Mate
+        serving: 100ml
+        kcal: 62 kcal
+        kj: 
+      - name: Herbata imbirowa
+        serving: 100ml
+        kcal: 0 kcal
+        kj: 
+      - name: Nektar
+        serving: 100ml
+        kcal: 53 kcal
+        kj: 
+      - name: Nestea
+        serving: 100ml
+        kcal: 36 kcal
+        kj: 
+      - name: Latte Macchiato
+        serving: 100ml
+        kcal: 57 kcal
+        kj: 
+      - name: Club Mate
+        serving: 100ml
+        kcal: 30 kcal
+        kj: 
+      - name: Karamalz
+        serving: 100ml
+        kcal: 37 kcal
+        kj: 
+      - name: Piwo słodowe
+        serving: 100ml
+        kcal: 37 kcal
+        kj: 
+      - name: ACE Drink
+        serving: 100ml
+        kcal: 44 kcal
+        kj: 
+      - name: Apple Spritzer
+        serving: 100ml
+        kcal: 24 kcal
+        kj: 
+      - name: Slush Puppie
+        serving: 100ml
+        kcal: 50 kcal
+        kj: 
+      - name: Herbata zielona
+        serving: 100ml
+        kcal: 30 kcal
+        kj: 
+      - name: Kompot
+        serving: 100ml
+        kcal: 48 kcal
+        kj: 
+      - name: Kwas chlebowy
+        serving: 100ml
+        kcal: 30 kcal
+        kj: 
+      - name: Bawarka
+        serving: 100ml
+        kcal: 40 kcal
+        kj: 
+      - name: Kawa zbożowa
+        serving: 100ml
+        kcal: 11 kcal
+        kj: 
+      - name: Kawa Inka
+        serving: 100ml
+        kcal: 335 kcal
+        kj: 
+  - title: Napoje sodowe i lekkie
+    foods:
+    - title: 'Napoje sodowe i lekkie: tabela kalorii'
+      food:
+      - name: Cherry Coke
+        serving: 100ml
+        kcal: 44 kcal
+        kj: 
+      - name: Cola
+        serving: 100ml
+        kcal: 42 kcal
+        kj: 
+      - name: Cola Zero
+        serving: 100ml
+        kcal: 0 kcal
+        kj: 
+      - name: Cherry Coke Light
+        serving: 100ml
+        kcal: 1 kcal
+        kj: 
+      - name: Cola Light
+        serving: 100ml
+        kcal: 1 kcal
+        kj: 
+      - name: Pepsi Light
+        serving: 100ml
+        kcal: 0 kcal
+        kj: 
+      - name: Fanta
+        serving: 100ml
+        kcal: 39 kcal
+        kj: 
+      - name: Fanta Zero
+        serving: 100ml
+        kcal: 0 kcal
+        kj: 
+      - name: Ice Tea
+        serving: 100ml
+        kcal: 27 kcal
+        kj: 
+      - name: Lemoniada
+        serving: 100ml
+        kcal: 42 kcal
+        kj: 
+      - name: Minute Maid
+        serving: 100ml
+        kcal: 46 kcal
+        kj: 
+      - name: Pepsi
+        serving: 100ml
+        kcal: 44 kcal
+        kj: 
+      - name: Powerade
+        serving: 100ml
+        kcal: 120 kcal
+        kj: 
+      - name: Sprite
+        serving: 100ml
+        kcal: 37 kcal
+        kj: 
+      - name: Sprite Zero
+        serving: 100ml
+        kcal: 0 kcal
+        kj: 
+      - name: Tonik
+        serving: 100ml
+        kcal: 35 kcal
+        kj: 
+      - name: Cola waniliowa
+        serving: 100ml
+        kcal: 45 kcal
+        kj: 
+      - name: Ginger Ale
+        serving: 100ml
+        kcal: 35 kcal
+        kj: 
+      - name: Napój gazowany
+        serving: 100ml
+        kcal: 53 kcal
+        kj: 
+      - name: Oranżada
+        serving: 100ml
+        kcal: 48 kcal
+        kj: 
+      - name: Minute Maid Light
+        serving: 100ml
+        kcal: 2 kcal
+        kj: 
+      - name: Bitter Lemon
+        serving: 100ml
+        kcal: 34 kcal
+        kj: 
+      - name: Schweppes Ginger Ale
+        serving: 100ml
+        kcal: 38 kcal
+        kj: 
+      - name: Napój energetyczny Black
+        serving: 100ml
+        kcal: 48 kcal
+        kj: 
+      - name: Red Bull
+        serving: 100ml
+        kcal: 45 kcal
+        kj: 
+      - name: Nestea
+        serving: 100ml
+        kcal: 29 kcal
+        kj: 
+      - name: Kinley Tonic
+        serving: 100ml
+        kcal: 40 kcal
+        kj: 
+      - name: Lipton Ice Tea
+        serving: 100ml
+        kcal: 25 kcal
+        kj: 
+      - name: Kwas chlebowy
+        serving: 100ml
+        kcal: 30 kcal
+        kj: 
+      - name: Tymbark jabłkowo-miętowy
+        serving: 100ml
+        kcal: 43 kcal
+        kj: 
+      - name: Dr Pepper
+        serving: 100ml
+        kcal: 27 kcal
+        kj: 
+      - name: Pepsi Light
+        serving: 100ml
+        kcal: 0 kcal
+        kj: 
+      - name: 7Up
+        serving: 100ml
+        kcal: 44 kcal
+        kj: 
+      - name: Tiger Energy Drink
+        serving: 100ml
+        kcal: 45 kcal
+        kj: 
+      - name: Burn
+        serving: 100ml
+        kcal: 57 kcal
+        kj: 
+      - name: Schweppes
+        serving: 100ml
+        kcal: 38 kcal
+        kj: 
+      - name: Hoop Cola
+        serving: 100ml
+        kcal: 44 kcal
+        kj: 
+    - title: 'Piwo: tabela kalorii'
+      food:
+      - name: Ale
+        serving: 100ml
+        kcal: 35 kcal
+        kj: 
+      - name: Beck’s
+        serving: 100ml
+        kcal: 39 kcal
+        kj: 
+      - name: Piwo
+        serving: 100ml
+        kcal: 43 kcal
+        kj: 
+      - name: Carlsberg
+        serving: 100ml
+        kcal: 32 kcal
+        kj: 
+      - name: Corona
+        serving: 100ml
+        kcal: 42 kcal
+        kj: 
+      - name: Piwo ciemne
+        serving: 100ml
+        kcal: 46 kcal
+        kj: 
+      - name: Piwo imbirowe
+        serving: 100ml
+        kcal: 42 kcal
+        kj: 
+      - name: Guineess
+        serving: 100ml
+        kcal: 35 kcal
+        kj: 
+      - name: Heineken
+        serving: 100ml
+        kcal: 35 kcal
+        kj: 
+      - name: India Pale Ale (IPA)
+        serving: 100ml
+        kcal: 51 kcal
+        kj: 
+      - name: Koelsch
+        serving: 100ml
+        kcal: 43 kcal
+        kj: 
+      - name: Piwo Lager
+        serving: 100ml
+        kcal: 43 kcal
+        kj: 
+      - name: Piwo jasne
+        serving: 100ml
+        kcal: 29 kcal
+        kj: 
+      - name: Lowenbrau
+        serving: 100ml
+        kcal: 45 kcal
+        kj: 
+      - name: Piwo słodowe
+        serving: 100ml
+        kcal: 37 kcal
+        kj: 
+      - name: Piwo bezalkoholowe
+        serving: 100ml
+        kcal: 37 kcal
+        kj: 
+      - name: Pale Ale
+        serving: 100ml
+        kcal: 42 kcal
+        kj: 
+      - name: Pilsner
+        serving: 100ml
+        kcal: 43 kcal
+        kj: 
+      - name: Porter
+        serving: 100ml
+        kcal: 54 kcal
+        kj: 
+      - name: Stout
+        serving: 100ml
+        kcal: 51 kcal
+        kj: 
+      - name: Piwo mocne
+        serving: 100ml
+        kcal: 55 kcal
+        kj: 
+      - name: Piwo pszeniczne
+        serving: 100ml
+        kcal: 45 kcal
+        kj: 
+      - name: Altbier
+        serving: 100ml
+        kcal: 43 kcal
+        kj: 
+      - name: Koźlak
+        serving: 100ml
+        kcal: 50 kcal
+        kj: 
+      - name: Clausthaler bezalkoholowy
+        serving: 100ml
+        kcal: 26 kcal
+        kj: 
+      - name: Dębowe mocne
+        serving: 100ml
+        kcal: 53 kcal
+        kj: 
+      - name: Piwo Królewskie
+        serving: 100ml
+        kcal: 46 kcal
+        kj: 
+      - name: Lech
+        serving: 100ml
+        kcal: 41 kcal
+        kj: 
+      - name: Leżajsk
+        serving: 100ml
+        kcal: 45 kcal
+        kj: 
+      - name: Okocim
+        serving: 100ml
+        kcal: 42 kcal
+        kj: 
+      - name: Piast
+        serving: 100ml
+        kcal: 43 kcal
+        kj: 
+      - name: Redd’s
+        serving: 100ml
+        kcal: 44 kcal
+        kj: 
+      - name: Tatra
+        serving: 100ml
+        kcal: 46 kcal
+        kj: 
+      - name: Tyskie
+        serving: 100ml
+        kcal: 64 kcal
+        kj: 
+      - name: Warka
+        serving: 100ml
+        kcal: 49 kcal
+        kj: 
+      - name: Żubr
+        serving: 100ml
+        kcal: 51 kcal
+        kj: 
+      - name: Żywiec
+        serving: 100ml
+        kcal: 49 kcal
+        kj: 
+  - title: Soki owocowe
+    foods:
+    - title: 'Soki owocowe: tabela kalorii'
+      food:
+      - name: Sok pomarańczowy
+        serving: 100ml
+        kcal: 46 kcal
+        kj: 
+      - name: Mleko kokosowe
+        serving: 100ml
+        kcal: 233 kcal
+        kj: 
+      - name: Woda kokosowa
+        serving: 100ml
+        kcal: 19 kcal
+        kj: 
+      - name: Sok jabłkowy
+        serving: 100ml
+        kcal: 46 kcal
+        kj: 
+      - name: Sok marchwiowy
+        serving: 100ml
+        kcal: 40 kcal
+        kj: 
+      - name: Sok cytrynowy
+        serving: 100ml
+        kcal: 21 kcal
+        kj: 
+      - name: Lemoniada
+        serving: 100ml
+        kcal: 50 kcal
+        kj: 
+      - name: Lassi z mango
+        serving: 100ml
+        kcal: 66 kcal
+        kj: 
+      - name: Sok żurawinowy
+        serving: 100ml
+        kcal: 46 kcal
+        kj: 
+      - name: Sok ananasowy
+        serving: 100ml
+        kcal: 53 kcal
+        kj: 
+      - name: Capri-Sun
+        serving: 100ml
+        kcal: 41 kcal
+        kj: 
+      - name: Sok grejpfrutowy
+        serving: 100ml
+        kcal: 46 kcal
+        kj: 
+      - name: Sok pomidorowy
+        serving: 100ml
+        kcal: 17 kcal
+        kj: 
+      - name: Sok z limonki
+        serving: 100ml
+        kcal: 21 kcal
+        kj: 
+      - name: Sok winogronowy
+        serving: 100ml
+        kcal: 60 kcal
+        kj: 
+      - name: Sok warzywny
+        serving: 100ml
+        kcal: 21 kcal
+        kj: 
+      - name: Sok z ogórka
+        serving: 100ml
+        kcal: 10 kcal
+        kj: 
+      - name: Sok z acai
+        serving: 100ml
+        kcal: 58 kcal
+        kj: 
+      - name: Sok z granata
+        serving: 100ml
+        kcal: 66 kcal
+        kj: 
+      - name: Herbata rumiankowa
+        serving: 100ml
+        kcal: 0 kcal
+        kj: 
+      - name: Energy-Drink
+        serving: 100ml
+        kcal: 87 kcal
+        kj: 
+      - name: Aloe vera
+        serving: 100ml
+        kcal: 44 kcal
+        kj: 
+      - name: Clamato
+        serving: 100ml
+        kcal: 60 kcal
+        kj: 
+      - name: Sok wiśniowy
+        serving: 100ml
+        kcal: 45 kcal
+        kj: 
+      - name: Sok gruszkowy
+        serving: 100ml
+        kcal: 60 kcal
+        kj: 
+      - name: Sok z białych winogron
+        serving: 100ml
+        kcal: 75 kcal
+        kj: 
+      - name: Nestea
+        serving: 100ml
+        kcal: 21 kcal
+        kj: 
+      - name: Sok z passiflory
+        serving: 100ml
+        kcal: 48 kcal
+        kj: 
+      - name: Sok z papai
+        serving: 100ml
+        kcal: 58 kcal
+        kj: 
+      - name: Sok bananowy
+        serving: 100ml
+        kcal: 50 kcal
+        kj: 
+      - name: Sok brzoskwiniowy
+        serving: 100ml
+        kcal: 54 kcal
+        kj: 
+      - name: Nektar brzoskwiniowy
+        serving: 100ml
+        kcal: 54 kcal
+        kj: 
+      - name: Sok śliwkowy
+        serving: 100ml
+        kcal: 71 kcal
+        kj: 
+      - name: Nektar morelowy
+        serving: 100ml
+        kcal: 56 kcal
+        kj: 
+      - name: Sok jeżynowy
+        serving: 100ml
+        kcal: 48 kcal
+        kj: 
+      - name: Nektar gruszkowy
+        serving: 100ml
+        kcal: 60 kcal
+        kj: 
+      - name: Sok z kiszonej kapusty
+        serving: 100ml
+        kcal: 14 kcal
+        kj: 
+      - name: Sok z mandarynek
+        serving: 100ml
+        kcal: 43 kcal
+        kj: 
+      - name: Sok porzeczkowy
+        serving: 100ml
+        kcal: 48 kcal
+        kj: 
+    - title: 'Wino: tabela kalorii'
+      food:
+      - name: Cabernet Sauvignon
+        serving: 100ml
+        kcal: 77 kcal
+        kj: 
+      - name: Cava
+        serving: 100ml
+        kcal: 76 kcal
+        kj: 
+      - name: Szampan
+        serving: 100ml
+        kcal: 76 kcal
+        kj: 
+      - name: Chardonnay
+        serving: 100ml
+        kcal: 85 kcal
+        kj: 
+      - name: Chenin Blanc
+        serving: 100ml
+        kcal: 80 kcal
+        kj: 
+      - name: Wino czerwone wytrawne
+        serving: 100ml
+        kcal: 85 kcal
+        kj: 
+      - name: Gamay
+        serving: 100ml
+        kcal: 78 kcal
+        kj: 
+      - name: Malbec
+        serving: 100ml
+        kcal: 82 kcal
+        kj: 
+      - name: Wino Marsala
+        serving: 100ml
+        kcal: 100 kcal
+        kj: 
+      - name: Merlot
+        serving: 100ml
+        kcal: 83 kcal
+        kj: 
+      - name: Wino grzane
+        serving: 100ml
+        kcal: 196 kcal
+        kj: 
+      - name: Pinot Gris
+        serving: 100ml
+        kcal: 83 kcal
+        kj: 
+      - name: Pinot Noir
+        serving: 100ml
+        kcal: 75 kcal
+        kj: 
+      - name: Wino śliwkowe
+        serving: 100ml
+        kcal: 163 kcal
+        kj: 
+      - name: Porto
+        serving: 100ml
+        kcal: 160 kcal
+        kj: 
+      - name: Prosecco
+        serving: 100ml
+        kcal: 71 kcal
+        kj: 
+      - name: Wino czerwone
+        serving: 100ml
+        kcal: 85 kcal
+        kj: 
+      - name: Riesling
+        serving: 100ml
+        kcal: 80 kcal
+        kj: 
+      - name: Wino różowe
+        serving: 100ml
+        kcal: 71 kcal
+        kj: 
+      - name: Sangria
+        serving: 100ml
+        kcal: 132 kcal
+        kj: 
+      - name: Sauvignon Blanc
+        serving: 100ml
+        kcal: 81 kcal
+        kj: 
+      - name: Sherry
+        serving: 100ml
+        kcal: 116 kcal
+        kj: 
+      - name: Shiraz
+        serving: 100ml
+        kcal: 71 kcal
+        kj: 
+      - name: Wino musujące
+        serving: 100ml
+        kcal: 190 kcal
+        kj: 
+      - name: Wino czerwone słodkie
+        serving: 100ml
+        kcal: 81 kcal
+        kj: 
+      - name: Wino białe słodkie
+        serving: 100ml
+        kcal: 82 kcal
+        kj: 
+      - name: Wina słodkie
+        serving: 100ml
+        kcal: 83 kcal
+        kj: 
+      - name: Wermut
+        serving: 100ml
+        kcal: 108 kcal
+        kj: 
+      - name: Wino białe
+        serving: 100ml
+        kcal: 82 kcal
+        kj: 
+      - name: Wino
+        serving: 100ml
+        kcal: 83 kcal
+        kj: 
+      - name: Zinfandel
+        serving: 100ml
+        kcal: 88 kcal
+        kj: 
+      - name: Bacchus
+        serving: 100ml
+        kcal: 116 kcal
+        kj: 
+      - name: Rose Dolina Bystrzycy
+        serving: 100ml
+        kcal: 72 kcal
+        kj: 
+      - name: Cabernet Cortis
+        serving: 100ml
+        kcal: 80 kcal
+        kj: 
+      - name: Hibernal
+        serving: 100ml
+        kcal: 75 kcal
+        kj: 
+      - name: Zweigelt Rose
+        serving: 100ml
+        kcal: 75 kcal
+        kj: 
+      - name: Czerwone Talary
+        serving: 100ml
+        kcal: 71 kcal
+        kj: 
+      - name: Grzaniec Galicyjski
+        serving: 100ml
+        kcal: 105 kcal
+        kj: 
+      - name: Herbowe Solaris
+        serving: 100ml
+        kcal: 82 kcal
+        kj: 
+      - name: Sibera
+        serving: 100ml
+        kcal: 82 kcal
+        kj: 
+      - name: Regent
+        serving: 100ml
+        kcal: 85 kcal
+        kj: 
+      - name: Acolon
+        serving: 100ml
+        kcal: 85 kcal
+        kj: 
+      - name: Seyval Blanc
+        serving: 100ml
+        kcal: 82 kcal
+        kj: 
+- title: Tabela kalorii zboża i produkty zbożowe
+  categories:
+  - title: Makaron i noodle
+    foods:
+    - title: 'Makaron i noodle: tabela kalorii'
+      food:
+      - name: Cannelloni
+        serving: 100g
+        kcal: 146 kcal
+        kj: 
+      - name: Capellini
+        serving: 100g
+        kcal: 353 kcal
+        kj: 
+      - name: Cappelletti
+        serving: 100g
+        kcal: 164 kcal
+        kj: 
+      - name: Tortellini z serem
+        serving: 100g
+        kcal: 291 kcal
+        kj: 
+      - name: Kluski na parze
+        serving: 100g
+        kcal: 274 kcal
+        kj: 
+      - name: Makaron jajeczny
+        serving: 100g
+        kcal: 384 kcal
+        kj: 
+      - name: Makaron kokardki
+        serving: 100g
+        kcal: 358 kcal
+        kj: 
+      - name: Fettuccine
+        serving: 100g
+        kcal: 353 kcal
+        kj: 
+      - name: Makaron świderki
+        serving: 100g
+        kcal: 352 kcal
+        kj: 
+      - name: Makaron przezroczysty
+        serving: 100g
+        kcal: 192 kcal
+        kj: 
+      - name: Makaron do Lasagne
+        serving: 100g
+        kcal: 271 kcal
+        kj: 
+      - name: Linguine
+        serving: 100g
+        kcal: 357 kcal
+        kj: 
+      - name: Mostaccioli
+        serving: 100g
+        kcal: 184 kcal
+        kj: 
+      - name: Makaron włoski uszka
+        serving: 100g
+        kcal: 370 kcal
+        kj: 
+      - name: Orzo
+        serving: 100g
+        kcal: 357 kcal
+        kj: 
+      - name: Makaron rurki
+        serving: 100g
+        kcal: 351 kcal
+        kj: 
+      - name: Makaron rurki z rowkami
+        serving: 100g
+        kcal: 370 kcal
+        kj: 
+      - name: Pierogi
+        serving: 100g
+        kcal: 200 kcal
+        kj: 
+      - name: Ravioli
+        serving: 100g
+        kcal: 77 kcal
+        kj: 
+      - name: Rigatoni
+        serving: 100g
+        kcal: 353 kcal
+        kj: 
+      - name: Szpecle
+        serving: 100g
+        kcal: 368 kcal
+        kj: 
+      - name: Spaghetti
+        serving: 100g
+        kcal: 370 kcal
+        kj: 
+      - name: Tortellini ze szpinakiem
+        serving: 100g
+        kcal: 314 kcal
+        kj: 
+      - name: Spirelli
+        serving: 100g
+        kcal: 367 kcal
+        kj: 
+      - name: Makaron wstążki
+        serving: 100g
+        kcal: 370 kcal
+        kj: 
+      - name: Tortellini
+        serving: 100g
+        kcal: 291 kcal
+        kj: 
+      - name: Vermicelli
+        serving: 100g
+        kcal: 368 kcal
+        kj: 
+      - name: Makaron pełnoziarnisty
+        serving: 100g
+        kcal: 347 kcal
+        kj: 
+      - name: Makaron włoski
+        serving: 100g
+        kcal: 370 kcal
+        kj: 
+      - name: Ciasto na pierogi
+        serving: 100g
+        kcal: 99 kcal
+        kj: 
+      - name: Semolina z pszenicy durum
+        serving: 100g
+        kcal: 397 kcal
+        kj: 
+      - name: Makaron nisko węglowodanowy
+        serving: 100g
+        kcal: 282 kcal
+        kj: 
+      - name: Makaron muszelki
+        serving: 100g
+        kcal: 353 kcal
+        kj: 
+      - name: Makaron Shirataki
+        serving: 100g
+        kcal: 18 kcal
+        kj: 
+      - name: Makaron sojowy
+        serving: 100g
+        kcal: 216 kcal
+        kj: 
+      - name: Spaghetti pełnoziarniste
+        serving: 100g
+        kcal: 351 kcal
+        kj: 
+      - name: Makaron ryżowy
+        serving: 100g
+        kcal: 109 kcal
+        kj: 
+      - name: Makaron łazanki
+        serving: 100g
+        kcal: 354 kcal
+        kj: 
+    - title: 'Płatki owsiane, kukurydziane i musli: tabela kalorii'
+      food:
+      - name: Cheerios
+        serving: 100g
+        kcal: 347 kcal
+        kj: 
+      - name: Cookie Crisp
+        serving: 100g
+        kcal: 400 kcal
+        kj: 
+      - name: Płatki kukurydziane
+        serving: 100g
+        kcal: 357 kcal
+        kj: 
+      - name: Muesli
+        serving: 100g
+        kcal: 336 kcal
+        kj: 
+      - name: Cheerios wielozbożowe
+        serving: 100g
+        kcal: 380 kcal
+        kj: 
+      - name: Owsianka
+        serving: 100g
+        kcal: 375 kcal
+        kj: 
+      - name: Ryż preparowany
+        serving: 100g
+        kcal: 383 kcal
+        kj: 
+      - name: Pszenica preparowana
+        serving: 100g
+        kcal: 367 kcal
+        kj: 
+      - name: Weetabix
+        serving: 100g
+        kcal: 358 kcal
+        kj: 
+      - name: Chocos
+        serving: 100g
+        kcal: 380 kcal
+        kj: 
+      - name: Cini Minis
+        serving: 100g
+        kcal: 433 kcal
+        kj: 
+      - name: Coco Pops
+        serving: 100g
+        kcal: 376 kcal
+        kj: 
+      - name: Jaśki
+        serving: 100g
+        kcal: 469 kcal
+        kj: 
+      - name: Płatki Chocapic czekoladowe
+        serving: 100g
+        kcal: 382 kcal
+        kj: 
+      - name: Nesquik
+        serving: 100g
+        kcal: 379 kcal
+        kj: 
+      - name: Płatki Lion
+        serving: 100g
+        kcal: 402 kcal
+        kj: 
+      - name: Gold Flakes Nestle
+        serving: 100g
+        kcal: 394 kcal
+        kj: 
+      - name: Crunchy naturalne
+        serving: 100g
+        kcal: 450 kcal
+        kj: 
+      - name: Muesli Sante granola
+        serving: 100g
+        kcal: 433 kcal
+        kj: 
+      - name: Muesli Nestle tropikalne
+        serving: 100g
+        kcal: 365 kcal
+        kj: 
+      - name: Muesli Lo
+        serving: 100g
+        kcal: 300 kcal
+        kj: 
+      - name: Granola Sante orzechowa
+        serving: 100g
+        kcal: 457 kcal
+        kj: 
+      - name: Płatki Nestle Fitness z jogurtem
+        serving: 100g
+        kcal: 399 kcal
+        kj: 
+      - name: Płatki Frutina
+        serving: 100g
+        kcal: 319 kcal
+        kj: 
+      - name: Mlekołaki
+        serving: 100g
+        kcal: 382 kcal
+        kj: 
+      - name: Płatki Kangus z miodem
+        serving: 100g
+        kcal: 387 kcal
+        kj: 
+      - name: Muesli Fitella
+        serving: 100g
+        kcal: 399 kcal
+        kj: 
+      - name: Płatki błonnikowe Sante
+        serving: 100g
+        kcal: 392 kcal
+        kj: 
+      - name: Płatki owsiane Nesvita
+        serving: 100g
+        kcal: 394 kcal
+        kj: 
+  - title: Zboża i produkty zbożowe
+    foods:
+    - title: 'Zboża i produkty zbożowe: tabela kalorii'
+      food:
+      - name: Szarłat
+        serving: 100g
+        kcal: 371 kcal
+        kj: 
+      - name: Jęczmień
+        serving: 100g
+        kcal: 354 kcal
+        kj: 
+      - name: Ryż brązowy
+        serving: 100g
+        kcal: 388 kcal
+        kj: 
+      - name: Kasza gryczana
+        serving: 100g
+        kcal: 343 kcal
+        kj: 
+      - name: Kasza kukurydziana
+        serving: 100g
+        kcal: 362 kcal
+        kj: 
+      - name: Skrobia kukurydziana
+        serving: 100g
+        kcal: 381 kcal
+        kj: 
+      - name: Kuskus
+        serving: 100g
+        kcal: 376 kcal
+        kj: 
+      - name: Krakersy
+        serving: 100g
+        kcal: 502 kcal
+        kj: 
+      - name: Semolina z pszenicy durum
+        serving: 100g
+        kcal: 397 kcal
+        kj: 
+      - name: Siemię lniane
+        serving: 100g
+        kcal: 534 kcal
+        kj: 
+      - name: Grissini
+        serving: 100g
+        kcal: 408 kcal
+        kj: 
+      - name: Ziarno pszenicy
+        serving: 100g
+        kcal: 337 kcal
+        kj: 
+      - name: Proso
+        serving: 100g
+        kcal: 378 kcal
+        kj: 
+      - name: Mąka jaglana
+        serving: 100g
+        kcal: 372 kcal
+        kj: 
+      - name: Kasza jaglana
+        serving: 100g
+        kcal: 46 kcal
+        kj: 
+      - name: Kasza jęczmienna
+        serving: 100g
+        kcal: 352 kcal
+        kj: 
+      - name: Polenta
+        serving: 100g
+        kcal: 366 kcal
+        kj: 
+      - name: Komosa ryżowa
+        serving: 100g
+        kcal: 368 kcal
+        kj: 
+      - name: Suchary
+        serving: 100g
+        kcal: 410 kcal
+        kj: 
+      - name: Otręby żytnie
+        serving: 100g
+        kcal: 281 kcal
+        kj: 
+      - name: Pszenica orkisz
+        serving: 100g
+        kcal: 338 kcal
+        kj: 
+      - name: Otręby orkiszowe
+        serving: 100g
+        kcal: 177 kcal
+        kj: 
+      - name: Semolina orkiszowa
+        serving: 100g
+        kcal: 360 kcal
+        kj: 
+      - name: Nasiona słonecznika
+        serving: 100g
+        kcal: 584 kcal
+        kj: 
+      - name: Tortilla
+        serving: 100g
+        kcal: 237 kcal
+        kj: 
+      - name: Chipsy tortilla
+        serving: 100g
+        kcal: 499 kcal
+        kj: 
+      - name: Otręby pszenne
+        serving: 100g
+        kcal: 216 kcal
+        kj: 
+      - name: Zarodki pszenne
+        serving: 100g
+        kcal: 382 kcal
+        kj: 
+      - name: Gluten pszenny
+        serving: 100g
+        kcal: 325 kcal
+        kj: 
+      - name: Semolina z pszenicy
+        serving: 100g
+        kcal: 360 kcal
+        kj: 
+      - name: Skrobia pszenna
+        serving: 100g
+        kcal: 351 kcal
+        kj: 
+      - name: Otręby owsiane
+        serving: 100g
+        kcal: 246 kcal
+        kj: 
+      - name: Ciasteczka kruche
+        serving: 100g
+        kcal: 502 kcal
+        kj: 
+      - name: Pełne ziarno pszenicy
+        serving: 100g
+        kcal: 339 kcal
+        kj: 
+      - name: Pełne ziarno owsa
+        serving: 100g
+        kcal: 375 kcal
+        kj: 
+      - name: Wafle kukurydziane
+        serving: 100g
+        kcal: 274 kcal
+        kj: 
+      - name: Paluszki
+        serving: 100g
+        kcal: 380 kcal
+        kj: 
+      - name: Ryż biały
+        serving: 100g
+        kcal: 344 kcal
+        kj: 
+      - name: Kasza manna
+        serving: 100g
+        kcal: 328 kcal
+        kj: 
+      - name: Ryż parboiled
+        serving: 100g
+        kcal: 366 kcal
+        kj: 
+      - name: Ryż dziki
+        serving: 100g
+        kcal: 355 kcal
+        kj: 
+- title: Tabela kalorii dania i posiłki
+  categories:
+  - title: Dania i posiłki
+    foods:
+    - title: 'Dania i posiłki: tabela kalorii'
+      food:
+      - name: Pieczona fasola
+        serving: 100g
+        kcal: 94 kcal
+        kj: 
+      - name: Gulasz wołowy
+        serving: 100g
+        kcal: 95 kcal
+        kj: 
+      - name: Ryż brązowy
+        serving: 100g
+        kcal: 362 kcal
+        kj: 
+      - name: Burrito
+        serving: 100g
+        kcal: 163 kcal
+        kj: 
+      - name: Chili con Carne
+        serving: 100g
+        kcal: 105 kcal
+        kj: 
+      - name: Groch
+        serving: 100g
+        kcal: 330 kcal
+        kj: 
+      - name: Enchilada
+        serving: 100g
+        kcal: 168 kcal
+        kj: 
+      - name: Fahita
+        serving: 100g
+        kcal: 117 kcal
+        kj: 
+      - name: Ryż smażony
+        serving: 100g
+        kcal: 186 kcal
+        kj: 
+      - name: Hummus
+        serving: 100g
+        kcal: 177 kcal
+        kj: 
+      - name: Kebab
+        serving: 100g
+        kcal: 215 kcal
+        kj: 
+      - name: Lazania
+        serving: 100g
+        kcal: 132 kcal
+        kj: 
+      - name: Makaron z serem
+        serving: 100g
+        kcal: 370 kcal
+        kj: 
+      - name: Ziemniaki tłuczone
+        serving: 100g
+        kcal: 83 kcal
+        kj: 
+      - name: Pieczeń rzymska
+        serving: 100g
+        kcal: 254 kcal
+        kj: 
+      - name: Paella
+        serving: 100g
+        kcal: 156 kcal
+        kj: 
+      - name: Zupa z groszku zielonego
+        serving: 100g
+        kcal: 75 kcal
+        kj: 
+      - name: Kaczka po pekińsku
+        serving: 100g
+        kcal: 225 kcal
+        kj: 
+      - name: Pizza
+        serving: 100g
+        kcal: 267 kcal
+        kj: 
+      - name: Wieprzowina z kością
+        serving: 100g
+        kcal: 225 kcal
+        kj: 
+      - name: Sałatka ziemniaczana
+        serving: 100g
+        kcal: 143 kcal
+        kj: 
+      - name: Ravioli
+        serving: 100g
+        kcal: 203 kcal
+        kj: 
+      - name: Pieczeń wołowa
+        serving: 100g
+        kcal: 111 kcal
+        kj: 
+      - name: Spaghetti Bolognese
+        serving: 100g
+        kcal: 132 kcal
+        kj: 
+      - name: Sajgonki
+        serving: 100g
+        kcal: 250 kcal
+        kj: 
+      - name: Taco
+        serving: 100g
+        kcal: 217 kcal
+        kj: 
+      - name: Kurczak pieczony
+        serving: 100g
+        kcal: 164 kcal
+        kj: 
+      - name: Sałatka cesarska z kurczakiem
+        serving: 100g
+        kcal: 127 kcal
+        kj: 
+      - name: Ryba z frytkami
+        serving: 100g
+        kcal: 195 kcal
+        kj: 
+      - name: Gołąbki
+        serving: 100g
+        kcal: 108 kcal
+        kj: 
+      - name: Bigos
+        serving: 100g
+        kcal: 61 kcal
+        kj: 
+      - name: Pilaw
+        serving: 100g
+        kcal: 108 kcal
+        kj: 
+      - name: Risotto
+        serving: 100g
+        kcal: 118 kcal
+        kj: 
+      - name: Kiełbasa duszona z cebulką
+        serving: 100g
+        kcal: 263 kcal
+        kj: 
+      - name: Galareta mięsna
+        serving: 100g
+        kcal: 115 kcal
+        kj: 
+    - title: 'Zupy: tabela kalorii'
+      food:
+      - name: Fasolka w sosie
+        serving: 100g
+        kcal: 133 kcal
+        kj: 
+      - name: Zupa wołowa
+        serving: 100g
+        kcal: 33 kcal
+        kj: 
+      - name: Bulion
+        serving: 100g
+        kcal: 16 kcal
+        kj: 
+      - name: Zupa brokułowa
+        serving: 100g
+        kcal: 87 kcal
+        kj: 
+      - name: Kapuśniak
+        serving: 100g
+        kcal: 28 kcal
+        kj: 
+      - name: Zupa marchewkowa
+        serving: 100g
+        kcal: 25 kcal
+        kj: 
+      - name: Bulion z kurczaka
+        serving: 100g
+        kcal: 4 kcal
+        kj: 
+      - name: Gulasz
+        serving: 100g
+        kcal: 50 kcal
+        kj: 
+      - name: Zupa z soczewicy
+        serving: 100g
+        kcal: 56 kcal
+        kj: 
+      - name: Zupa krem z homarów
+        serving: 100g
+        kcal: 100 kcal
+        kj: 
+      - name: Zupa z klopsikami
+        serving: 100g
+        kcal: 49 kcal
+        kj: 
+      - name: Zupa Minestrone
+        serving: 100g
+        kcal: 34 kcal
+        kj: 
+      - name: Zupa grzybowa
+        serving: 100g
+        kcal: 35 kcal
+        kj: 
+      - name: Zupa z makaronem
+        serving: 100g
+        kcal: 34 kcal
+        kj: 
+      - name: Zupa cebulowa
+        serving: 100g
+        kcal: 23 kcal
+        kj: 
+      - name: Zupa ogonowa
+        serving: 100g
+        kcal: 28 kcal
+        kj: 
+      - name: Zupa z groszku
+        serving: 100g
+        kcal: 75 kcal
+        kj: 
+      - name: Zupa ziemniaczana
+        serving: 100g
+        kcal: 80 kcal
+        kj: 
+      - name: Zupa z dyni
+        serving: 100g
+        kcal: 29 kcal
+        kj: 
+      - name: Ramen
+        serving: 100g
+        kcal: 436 kcal
+        kj: 
+      - name: Zupa tajska
+        serving: 100g
+        kcal: 60 kcal
+        kj: 
+      - name: Zupa pomidorowa z ryżem
+        serving: 100g
+        kcal: 47 kcal
+        kj: 
+      - name: Zupa pomidorowa
+        serving: 100g
+        kcal: 30 kcal
+        kj: 
+      - name: Wywar warzywny
+        serving: 100g
+        kcal: 5 kcal
+        kj: 
+      - name: Zupa jarzynowa
+        serving: 100g
+        kcal: 28 kcal
+        kj: 
+      - name: Zupa z makaronem alfabetem
+        serving: 100g
+        kcal: 25 kcal
+        kj: 
+      - name: Rosół z kurczaka
+        serving: 100g
+        kcal: 16 kcal
+        kj: 
+      - name: Ramen błyskawiczny
+        serving: 100g
+        kcal: 436 kcal
+        kj: 
+      - name: Bulion wołowy
+        serving: 100g
+        kcal: 3 kcal
+        kj: 
+      - name: Zupa z serem i brokułami
+        serving: 100g
+        kcal: 87 kcal
+        kj: 
+      - name: Zupa z wołowiną i makaronem
+        serving: 100g
+        kcal: 34 kcal
+        kj: 
+      - name: Rosół z kurczaka z makaronem
+        serving: 100g
+        kcal: 25 kcal
+        kj: 
+      - name: Zupa z kurczakiem i warzywami
+        serving: 100g
+        kcal: 31 kcal
+        kj: 
+      - name: Zupa z kurczakiem i ryżem
+        serving: 100g
+        kcal: 24 kcal
+        kj: 
+      - name: Zupa krem ze szparagów
+        serving: 100g
+        kcal: 35 kcal
+        kj: 
+      - name: Zupa krem z brokułów
+        serving: 100g
+        kcal: 45 kcal
+        kj: 
+      - name: Zupa krem z selera
+        serving: 100g
+        kcal: 37 kcal
+        kj: 
+      - name: Zupa krem z kurczaka
+        serving: 100g
+        kcal: 48 kcal
+        kj: 
+      - name: Zupa krem grzybowa
+        serving: 100g
+        kcal: 39 kcal
+        kj: 
+      - name: Zupa krem cebulowa
+        serving: 100g
+        kcal: 44 kcal
+        kj: 
+      - name: Zupa krem ziemniaczana
+        serving: 100g
+        kcal: 30 kcal
+        kj: 
+      - name: Zupa krem z kurczaka z makaronem
+        serving: 100g
+        kcal: 23 kcal
+        kj: 
+      - name: Zupa marchewkowa z imbirem
+        serving: 100g
+        kcal: 25 kcal
+        kj: 
+      - name: Żurek
+        serving: 100g
+        kcal: 108 kcal
+        kj: 
+      - name: Barszcz z uszkami
+        serving: 100g
+        kcal: 82 kcal
+        kj: 
+      - name: Zalewajka
+        serving: 100g
+        kcal: 38 kcal
+        kj: 
+      - name: Barszcz biały
+        serving: 100g
+        kcal: 23 kcal
+        kj: 
+- title: Tabela kalorii orzechy i rośliny strączkowe
+  categories:
+  - title: Orzechy i nasiona
+    foods:
+    - title: 'Orzechy i nasiona: tabela kalorii'
+      food:
+      - name: Arbuz
+        serving: 100g
+        kcal: 30 kcal
+        kj: 
+      - name: Migdały
+        serving: 100g
+        kcal: 575 kcal
+        kj: 
+      - name: Pistacje
+        serving: 100g
+        kcal: 562 kcal
+        kj: 
+      - name: Nasiona słonecznika
+        serving: 100g
+        kcal: 584 kcal
+        kj: 
+      - name: Orzechy włoskie
+        serving: 100g
+        kcal: 654 kcal
+        kj: 
+      - name: Pestki dyni
+        serving: 100g
+        kcal: 559 kcal
+        kj: 
+      - name: Orzeszki ziemne
+        serving: 100g
+        kcal: 567 kcal
+        kj: 
+      - name: Nasiona szałwii hiszpańskiej
+        serving: 100g
+        kcal: 486 kcal
+        kj: 
+      - name: Kokos
+        serving: 100g
+        kcal: 354 kcal
+        kj: 
+      - name: Groszek
+        serving: 100g
+        kcal: 81 kcal
+        kj: 
+      - name: Siemię lniane
+        serving: 100g
+        kcal: 534 kcal
+        kj: 
+      - name: Nerkowiec
+        serving: 100g
+        kcal: 553 kcal
+        kj: 
+      - name: Orzechy pecan
+        serving: 100g
+        kcal: 691 kcal
+        kj: 
+      - name: Orzechy brazylijskie
+        serving: 100g
+        kcal: 656 kcal
+        kj: 
+      - name: Orzeszki pini
+        serving: 100g
+        kcal: 673 kcal
+        kj: 
+      - name: Kasztan
+        serving: 100g
+        kcal: 213 kcal
+        kj: 
+      - name: Orzechy Macadamia
+        serving: 100g
+        kcal: 718 kcal
+        kj: 
+      - name: Nasiona sezamu
+        serving: 100g
+        kcal: 573 kcal
+        kj: 
+      - name: Orzechy laskowe
+        serving: 100g
+        kcal: 628 kcal
+        kj: 
+      - name: Soja
+        serving: 100g
+        kcal: 147 kcal
+        kj: 
+      - name: Kiełki alfa-alfa
+        serving: 100g
+        kcal: 23 kcal
+        kj: 
+      - name: Nasiona maku
+        serving: 100g
+        kcal: 525 kcal
+        kj: 
+      - name: Żołędzie
+        serving: 100g
+        kcal: 387 kcal
+        kj: 
+      - name: Nasiona lotosu
+        serving: 100g
+        kcal: 89 kcal
+        kj: 
+      - name: Orzeszki bukowe
+        serving: 100g
+        kcal: 576 kcal
+        kj: 
+      - name: Słodkie kasztany
+        serving: 100g
+        kcal: 194 kcal
+        kj: 
+      - name: Nasiona bawełny
+        serving: 100g
+        kcal: 506 kcal
+        kj: 
+      - name: Pestki dyni piżmowej
+        serving: 100g
+        kcal: 612 kcal
+        kj: 
+      - name: Orzechy hikory
+        serving: 100g
+        kcal: 657 kcal
+        kj: 
+      - name: Orzechy Ginkgo
+        serving: 100g
+        kcal: 182 kcal
+        kj: 
+      - name: Fasola pinto
+        serving: 100g
+        kcal: 347 kcal
+        kj: 
+      - name: Chlebowiec
+        serving: 100g
+        kcal: 191 kcal
+        kj: 
+    - title: 'Rośliny strączkowe: tabela kalorii'
+      food:
+      - name: Pędy bambusa
+        serving: 100g
+        kcal: 27 kcal
+        kj: 
+      - name: Fasola czarna
+        serving: 100g
+        kcal: 341 kcal
+        kj: 
+      - name: Ciecierzyca czarna
+        serving: 100g
+        kcal: 364 kcal
+        kj: 
+      - name: Soczewica brązowa
+        serving: 100g
+        kcal: 353 kcal
+        kj: 
+      - name: Ciecierzyca
+        serving: 100g
+        kcal: 364 kcal
+        kj: 
+      - name: Groch
+        serving: 100g
+        kcal: 230 kcal
+        kj: 
+      - name: Ser tofu bardzo twardy
+        serving: 100g
+        kcal: 91 kcal
+        kj: 
+      - name: Ser tofu twardy
+        serving: 100g
+        kcal: 70 kcal
+        kj: 
+      - name: Fasola flageolet
+        serving: 100g
+        kcal: 85 kcal
+        kj: 
+      - name: Fasolka zielona
+        serving: 100g
+        kcal: 31 kcal
+        kj: 
+      - name: Soczewica zielona
+        serving: 100g
+        kcal: 257 kcal
+        kj: 
+      - name: Soczewica
+        serving: 100g
+        kcal: 353 kcal
+        kj: 
+      - name: Kasztan jadalny
+        serving: 100g
+        kcal: 210 kcal
+        kj: 
+      - name: Miso
+        serving: 100g
+        kcal: 199 kcal
+        kj: 
+      - name: Piżmian
+        serving: 100g
+        kcal: 33 kcal
+        kj: 
+      - name: Orzeszki ziemne
+        serving: 100g
+        kcal: 567 kcal
+        kj: 
+      - name: Groszek zielony
+        serving: 100g
+        kcal: 42 kcal
+        kj: 
+      - name: Orzeszki pekan
+        serving: 100g
+        kcal: 691 kcal
+        kj: 
+      - name: Fasola czerwona
+        serving: 100g
+        kcal: 124 kcal
+        kj: 
+      - name: Soczewica czerwona
+        serving: 100g
+        kcal: 329 kcal
+        kj: 
+      - name: Tofu miękkie
+        serving: 100g
+        kcal: 55 kcal
+        kj: 
+      - name: Ser z soi
+        serving: 100g
+        kcal: 235 kcal
+        kj: 
+      - name: Majonez sojowy
+        serving: 100g
+        kcal: 322 kcal
+        kj: 
+      - name: Orzeszki sojowe
+        serving: 100g
+        kcal: 471 kcal
+        kj: 
+      - name: Jogurt sojowy
+        serving: 100g
+        kcal: 66 kcal
+        kj: 
+      - name: Soja
+        serving: 100g
+        kcal: 147 kcal
+        kj: 
+      - name: Groszek w strączkach
+        serving: 100g
+        kcal: 42 kcal
+        kj: 
+      - name: Tempeh
+        serving: 100g
+        kcal: 193 kcal
+        kj: 
+      - name: Tofu
+        serving: 100g
+        kcal: 76 kcal
+        kj: 
+      - name: Fasola biała
+        serving: 100g
+        kcal: 336 kcal
+        kj: 
+      - name: Soczewica żółta
+        serving: 100g
+        kcal: 304 kcal
+        kj: 
+      - name: Kiełki fasoli
+        serving: 100g
+        kcal: 30 kcal
+        kj: 
+      - name: Dynia piżmowa
+        serving: 100g
+        kcal: 612 kcal
+        kj: 
+      - name: Fasola z chili
+        serving: 100g
+        kcal: 97 kcal
+        kj: 
+      - name: Tofu głęboko smażony
+        serving: 100g
+        kcal: 271 kcal
+        kj: 
+      - name: Fasola kidney
+        serving: 100g
+        kcal: 337 kcal
+        kj: 
+      - name: Fasola mung / Fasola złota
+        serving: 100g
+        kcal: 12 kcal
+        kj: 
+      - name: Fasola pinto
+        serving: 100g
+        kcal: 347 kcal
+        kj: 
+      - name: Bób
+        serving: 100g
+        kcal: 99 kcal
+        kj: 
+      - name: Fasola Azuki
+        serving: 100g
+        kcal: 366 kcal
+        kj: 
+      - name: Fasola Mungo
+        serving: 100g
+        kcal: 331 kcal
+        kj: 
+- title: Tabela kalorii oleje i tłuszcze
+  categories:
+  - title: Oleje i tłuszcze
+    foods:
+    - title: 'Oleje i tłuszcze: tabela kalorii'
+      food:
+      - name: Olej migdałowy
+        serving: 100ml
+        kcal: 882 kcal
+        kj: 
+      - name: Olej z awokado
+        serving: 100ml
+        kcal: 857 kcal
+        kj: 
+      - name: Masło
+        serving: 100ml
+        kcal: 720 kcal
+        kj: 
+      - name: Olej canola
+        serving: 100ml
+        kcal: 884 kcal
+        kj: 
+      - name: Olej kokosowy
+        serving: 100ml
+        kcal: 857 kcal
+        kj: 
+      - name: Tran z wątroby dorsza
+        serving: 100ml
+        kcal: 1000 kcal
+        kj: 
+      - name: Olej kukurydziany
+        serving: 100ml
+        kcal: 800 kcal
+        kj: 
+      - name: Olej z nasion bawełny
+        serving: 100ml
+        kcal: 882 kcal
+        kj: 
+      - name: Olej lniany
+        serving: 100ml
+        kcal: 884 kcal
+        kj: 
+      - name: Ghee
+        serving: 100ml
+        kcal: 120 kcal
+        kj: 
+      - name: Olej z nasion winogron
+        serving: 100ml
+        kcal: 884 kcal
+        kj: 
+      - name: Olej ze śledzia
+        serving: 100ml
+        kcal: 902 kcal
+        kj: 
+      - name: Smalec
+        serving: 100ml
+        kcal: 902 kcal
+        kj: 
+      - name: Olej macademia
+        serving: 100ml
+        kcal: 819 kcal
+        kj: 
+      - name: Margaryna
+        serving: 100ml
+        kcal: 717 kcal
+        kj: 
+      - name: Olej musztardowy
+        serving: 100ml
+        kcal: 884 kcal
+        kj: 
+      - name: Oliwa z oliwek
+        serving: 100ml
+        kcal: 884 kcal
+        kj: 
+      - name: Olej palmowy
+        serving: 100ml
+        kcal: 882 kcal
+        kj: 
+      - name: Olej z orzeszków ziemnych
+        serving: 100ml
+        kcal: 857 kcal
+        kj: 
+      - name: Olej z krokosza barwierskiego
+        serving: 100ml
+        kcal: 857 kcal
+        kj: 
+      - name: Olej z sardynek
+        serving: 100ml
+        kcal: 902 kcal
+        kj: 
+      - name: Olej sezamowy
+        serving: 100ml
+        kcal: 884 kcal
+        kj: 
+      - name: Olej sojowy
+        serving: 100ml
+        kcal: 889 kcal
+        kj: 
+      - name: Olej słonecznikowy
+        serving: 100ml
+        kcal: 884 kcal
+        kj: 
+      - name: Olej z orzechów włoskich
+        serving: 100ml
+        kcal: 889 kcal
+        kj: 
+    - title: 'Oleje roślinne: tabela kalorii'
+      food:
+      - name: Olej migdałowy
+        serving: 100ml
+        kcal: 882 kcal
+        kj: 
+      - name: Olej z pestek moreli
+        serving: 100ml
+        kcal: 889 kcal
+        kj: 
+      - name: Olej arganowy
+        serving: 100ml
+        kcal: 896 kcal
+        kj: 
+      - name: Olej z awokado
+        serving: 100ml
+        kcal: 857 kcal
+        kj: 
+      - name: Olej babassu
+        serving: 100ml
+        kcal: 884 kcal
+        kj: 
+      - name: Olaj canola
+        serving: 100ml
+        kcal: 884 kcal
+        kj: 
+      - name: Olej kokosowy
+        serving: 100ml
+        kcal: 857 kcal
+        kj: 
+      - name: Olej kukurydziany
+        serving: 100ml
+        kcal: 800 kcal
+        kj: 
+      - name: Olej z nasion bawełny
+        serving: 100ml
+        kcal: 882 kcal
+        kj: 
+      - name: Olej z pestek winogron
+        serving: 100ml
+        kcal: 884 kcal
+        kj: 
+      - name: Olej z orzechów laskowych
+        serving: 100ml
+        kcal: 889 kcal
+        kj: 
+      - name: Olej lniany
+        serving: 100ml
+        kcal: 837 kcal
+        kj: 
+      - name: Olej musztardowy
+        serving: 100ml
+        kcal: 884 kcal
+        kj: 
+      - name: Olej owsiany
+        serving: 100ml
+        kcal: 884 kcal
+        kj: 
+      - name: Oliwa z oliwek
+        serving: 100ml
+        kcal: 800 kcal
+        kj: 
+      - name: Olej palmowy
+        serving: 100ml
+        kcal: 882 kcal
+        kj: 
+      - name: Olej z orzeszków ziemnych
+        serving: 100ml
+        kcal: 857 kcal
+        kj: 
+      - name: Olej z nasion maku
+        serving: 100ml
+        kcal: 884 kcal
+        kj: 
+      - name: Olej z pestek dyni
+        serving: 100ml
+        kcal: 880 kcal
+        kj: 
+      - name: Olej z otrąb ryżowych
+        serving: 100ml
+        kcal: 889 kcal
+        kj: 
+      - name: Olej z krokosza barwierskiego
+        serving: 100ml
+        kcal: 857 kcal
+        kj: 
+      - name: Olej z łososia
+        serving: 100ml
+        kcal: 911 kcal
+        kj: 
+      - name: Olej sezamowy
+        serving: 100ml
+        kcal: 889 kcal
+        kj: 
+      - name: Olej shea
+        serving: 100ml
+        kcal: 884 kcal
+        kj: 
+      - name: Olej sojowy
+        serving: 100ml
+        kcal: 882 kcal
+        kj: 
+      - name: Olej słonecznikowy
+        serving: 100ml
+        kcal: 884 kcal
+        kj: 
+      - name: Olej z pestek pomidora
+        serving: 100ml
+        kcal: 884 kcal
+        kj: 
+      - name: Olej roślinny
+        serving: 100ml
+        kcal: 800 kcal
+        kj: 
+      - name: Olej z orzechów włoskich
+        serving: 100ml
+        kcal: 889 kcal
+        kj: 
+      - name: Olej z zarodków pszenicy
+        serving: 100ml
+        kcal: 929 kcal
+        kj: 
+- title: Inne
+  categories:
+  - title: Pasty
+    foods:
+    - title: 'Pasty: tabela kalorii'
+      food:
+      - name: Masło migdałowe
+        serving: 100g
+        kcal: 614 kcal
+        kj: 
+      - name: Mus jabłkowy
+        serving: 100g
+        kcal: 68 kcal
+        kj: 
+      - name: Dżem morelowy
+        serving: 100g
+        kcal: 250 kcal
+        kj: 
+      - name: Dżem jagodowy
+        serving: 100g
+        kcal: 250 kcal
+        kj: 
+      - name: Dżem wiśniowy
+        serving: 100g
+        kcal: 250 kcal
+        kj: 
+      - name: Krem czekoladowy
+        serving: 100g
+        kcal: 541 kcal
+        kj: 
+      - name: Serek kremowy
+        serving: 100g
+        kcal: 342 kcal
+        kj: 
+      - name: Jajko
+        serving: 100g
+        kcal: 97 kcal
+        kj: 
+      - name: Konfitura winogronowa
+        serving: 100g
+        kcal: 255 kcal
+        kj: 
+      - name: Miód
+        serving: 100g
+        kcal: 304 kcal
+        kj: 
+      - name: Konfitura
+        serving: 100g
+        kcal: 278 kcal
+        kj: 
+      - name: Pasztetowa
+        serving: 100g
+        kcal: 305 kcal
+        kj: 
+      - name: Margaryna
+        serving: 100g
+        kcal: 717 kcal
+        kj: 
+      - name: Nutella
+        serving: 100g
+        kcal: 544 kcal
+        kj: 
+      - name: Pasztet
+        serving: 100g
+        kcal: 319 kcal
+        kj: 
+      - name: Masło orzechowe
+        serving: 100g
+        kcal: 589 kcal
+        kj: 
+      - name: Serek śmietankowy Philadelphia
+        serving: 100g
+        kcal: 342 kcal
+        kj: 
+      - name: Dżem śliwkowy
+        serving: 100g
+        kcal: 250 kcal
+        kj: 
+      - name: Masło solone
+        serving: 100g
+        kcal: 717 kcal
+        kj: 
+      - name: Dżem truskawkowy
+        serving: 100g
+        kcal: 250 kcal
+        kj: 
+      - name: Konfitura truskawkowa
+        serving: 100g
+        kcal: 250 kcal
+        kj: 
+      - name: Masło
+        serving: 100g
+        kcal: 717 kcal
+        kj: 
+      - name: Pasta z drożdży
+        serving: 100g
+        kcal: 180 kcal
+        kj: 
+      - name: Dżem jeżynowy
+        serving: 100g
+        kcal: 250 kcal
+        kj: 
+      - name: Dżem z czarnej porzeczki
+        serving: 100g
+        kcal: 250 kcal
+        kj: 
+      - name: Serek topiony
+        serving: 100g
+        kcal: 290 kcal
+        kj: 
+      - name: Miód dzikich pszczół
+        serving: 100g
+        kcal: 286 kcal
+        kj: 
+      - name: Masło roślinne
+        serving: 100g
+        kcal: 721 kcal
+        kj: 
+      - name: Serek Almette śmietankowy
+        serving: 100g
+        kcal: 270 kcal
+        kj: 
+      - name: Serek Almette z ziołami
+        serving: 100g
+        kcal: 118 kcal
+        kj: 
+      - name: Dżem brzoskwiniowy
+        serving: 100g
+        kcal: 180 kcal
+        kj: 
+      - name: Dżem malinowy
+        serving: 100g
+        kcal: 240 kcal
+        kj: 
+      - name: Powidła śliwkowe
+        serving: 100g
+        kcal: 209 kcal
+        kj: 
+      - name: Dżem pomarańczowy
+        serving: 100g
+        kcal: 246 kcal
+        kj: 
+      - name: Pasztet sojowy
+        serving: 100g
+        kcal: 274 kcal
+        kj: 
+      - name: Paprykarz
+        serving: 100g
+        kcal: 179 kcal
+        kj: 
+      - name: Pasta z łososia
+        serving: 100g
+        kcal: 267 kcal
+        kj: 
+    - title: 'Ryby i owoce morza: tabela kalorii'
+      food:
+      - name: Sardela
+        serving: 100g
+        kcal: 131 kcal
+        kj: 
+      - name: Tesegral
+        serving: 100g
+        kcal: 159 kcal
+        kj: 
+      - name: Leszcz
+        serving: 100g
+        kcal: 135 kcal
+        kj: 
+      - name: Kalmary
+        serving: 100g
+        kcal: 175 kcal
+        kj: 
+      - name: Karp
+        serving: 100g
+        kcal: 162 kcal
+        kj: 
+      - name: Kawior
+        serving: 100g
+        kcal: 264 kcal
+        kj: 
+      - name: Małż
+        serving: 100g
+        kcal: 148 kcal
+        kj: 
+      - name: Dorsz
+        serving: 100g
+        kcal: 105 kcal
+        kj: 
+      - name: Rak
+        serving: 100g
+        kcal: 82 kcal
+        kj: 
+      - name: Węgorz
+        serving: 100g
+        kcal: 236 kcal
+        kj: 
+      - name: Paluszki rybne
+        serving: 100g
+        kcal: 290 kcal
+        kj: 
+      - name: Flądra
+        serving: 100g
+        kcal: 86 kcal
+        kj: 
+      - name: Granik
+        serving: 100g
+        kcal: 118 kcal
+        kj: 
+      - name: Łupacz
+        serving: 100g
+        kcal: 90 kcal
+        kj: 
+      - name: Morszczuk
+        serving: 100g
+        kcal: 71 kcal
+        kj: 
+      - name: Halibut
+        serving: 100g
+        kcal: 111 kcal
+        kj: 
+      - name: Śledź
+        serving: 100g
+        kcal: 203 kcal
+        kj: 
+      - name: Miruna
+        serving: 100g
+        kcal: 121 kcal
+        kj: 
+      - name: Śledź wędzony
+        serving: 100g
+        kcal: 217 kcal
+        kj: 
+      - name: Homar
+        serving: 100g
+        kcal: 89 kcal
+        kj: 
+      - name: Makrela
+        serving: 100g
+        kcal: 262 kcal
+        kj: 
+      - name: Chanos
+        serving: 100g
+        kcal: 190 kcal
+        kj: 
+      - name: Barwena
+        serving: 100g
+        kcal: 150 kcal
+        kj: 
+      - name: Omułek
+        serving: 100g
+        kcal: 172 kcal
+        kj: 
+      - name: Ośmiornica
+        serving: 100g
+        kcal: 164 kcal
+        kj: 
+      - name: Śledź marynowany
+        serving: 100g
+        kcal: 262 kcal
+        kj: 
+      - name: Szczupak
+        serving: 100g
+        kcal: 113 kcal
+        kj: 
+      - name: Pollachius
+        serving: 100g
+        kcal: 111 kcal
+        kj: 
+      - name: Kulbak czerwony
+        serving: 100g
+        kcal: 94 kcal
+        kj: 
+      - name: Rolmopsy
+        serving: 100g
+        kcal: 171 kcal
+        kj: 
+      - name: Łosoś
+        serving: 100g
+        kcal: 206 kcal
+        kj: 
+      - name: Sardynki
+        serving: 100g
+        kcal: 208 kcal
+        kj: 
+      - name: Przegrzebki
+        serving: 100g
+        kcal: 111 kcal
+        kj: 
+      - name: Okoń morski
+        serving: 100g
+        kcal: 124 kcal
+        kj: 
+      - name: Aloza
+        serving: 100g
+        kcal: 252 kcal
+        kj: 
+      - name: Rekin
+        serving: 100g
+        kcal: 130 kcal
+        kj: 
+      - name: Stynka
+        serving: 100g
+        kcal: 124 kcal
+        kj: 
+      - name: Sola
+        serving: 100g
+        kcal: 86 kcal
+        kj: 
+      - name: Jesiotr
+        serving: 100g
+        kcal: 135 kcal
+        kj: 
+      - name: Sushi
+        serving: 100g
+        kcal: 150 kcal
+        kj: 
+      - name: Miecznik
+        serving: 100g
+        kcal: 172 kcal
+        kj: 
+      - name: Balistyda
+        serving: 100g
+        kcal: 93 kcal
+        kj: 
+      - name: Pstrąg
+        serving: 100g
+        kcal: 190 kcal
+        kj: 
+      - name: Tuńczyk
+        serving: 100g
+        kcal: 132 kcal
+        kj: 
+      - name: Sałatka z tuńczyka
+        serving: 100g
+        kcal: 187 kcal
+        kj: 
+      - name: Skarp
+        serving: 100g
+        kcal: 122 kcal
+        kj: 
+      - name: Dorsz atlantycki
+        serving: 100g
+        kcal: 172 kcal
+        kj: 
+      - name: Witlinek
+        serving: 100g
+        kcal: 116 kcal
+        kj: 
+      - name: Sandacz
+        serving: 100g
+        kcal: 84 kcal
+        kj: 
+      - name: Homary w cieście
+        serving: 100g
+        kcal: 84 kcal
+        kj: 
+      - name: Ryba maślana
+        serving: 100g
+        kcal: 187 kcal
+        kj: 
+      - name: Lucjan czerwony
+        serving: 100g
+        kcal: 87 kcal
+        kj: 
+      - name: Molwa
+        serving: 100g
+        kcal: 128 kcal
+        kj: 
+      - name: Solandra
+        serving: 100g
+        kcal: 109 kcal
+        kj: 
+  - title: Składniki do pieczenia
+    foods:
+    - title: 'Składniki do pieczenia: tabela kalorii'
+      food:
+      - name: Agar-agar
+        serving: 100g
+        kcal: 26 kcal
+        kj: 
+      - name: Syrop z agawy
+        serving: 100g
+        kcal: 310 kcal
+        kj: 
+      - name: Ekstrakt z migdałów
+        serving: 100g
+        kcal: 258 kcal
+        kj: 
+      - name: Migdały
+        serving: 100g
+        kcal: 529 kcal
+        kj: 
+      - name: Proszek do pieczenia
+        serving: 100g
+        kcal: 53 kcal
+        kj: 
+      - name: Maślanka
+        serving: 100g
+        kcal: 62 kcal
+        kj: 
+      - name: Cukier trzcinowy
+        serving: 100g
+        kcal: 387 kcal
+        kj: 
+      - name: Chipsy czekoladowe
+        serving: 100g
+        kcal: 467 kcal
+        kj: 
+      - name: Posypka czekoladowa
+        serving: 100g
+        kcal: 500 kcal
+        kj: 
+      - name: Kakao w proszku
+        serving: 100g
+        kcal: 228 kcal
+        kj: 
+      - name: Mleko kokosowe
+        serving: 100g
+        kcal: 50 kcal
+        kj: 
+      - name: Syrop kukurydziany
+        serving: 100g
+        kcal: 281 kcal
+        kj: 
+      - name: Skrobia kukurydziana
+        serving: 100g
+        kcal: 381 kcal
+        kj: 
+      - name: Kuwertura
+        serving: 100g
+        kcal: 600 kcal
+        kj: 
+      - name: Twarożek śmietankowy
+        serving: 100g
+        kcal: 54 kcal
+        kj: 
+      - name: Imbir kandyzowany
+        serving: 100g
+        kcal: 335 kcal
+        kj: 
+      - name: Rum ciemny
+        serving: 100g
+        kcal: 216 kcal
+        kj: 
+      - name: Morele suszone
+        serving: 100g
+        kcal: 241 kcal
+        kj: 
+      - name: Żurawina suszona
+        serving: 100g
+        kcal: 308 kcal
+        kj: 
+      - name: Figi suszone
+        serving: 100g
+        kcal: 249 kcal
+        kj: 
+      - name: Śliwki suszone
+        serving: 100g
+        kcal: 107 kcal
+        kj: 
+      - name: Jajko
+        serving: 100g
+        kcal: 97 kcal
+        kj: 
+      - name: Białko jaja
+        serving: 100g
+        kcal: 13 kcal
+        kj: 
+      - name: Żółtko jaja
+        serving: 100g
+        kcal: 322 kcal
+        kj: 
+      - name: Mleko odparowane
+        serving: 100g
+        kcal: 134 kcal
+        kj: 
+      - name: Mąka
+        serving: 100g
+        kcal: 364 kcal
+        kj: 
+      - name: Fruktoza
+        serving: 100g
+        kcal: 368 kcal
+        kj: 
+      - name: Żelatyna
+        serving: 100g
+        kcal: 335 kcal
+        kj: 
+      - name: Glukoza
+        serving: 100g
+        kcal: 286 kcal
+        kj: 
+      - name: Syrop glukozowy
+        serving: 100g
+        kcal: 387 kcal
+        kj: 
+      - name: Cukier granulowany
+        serving: 100g
+        kcal: 387 kcal
+        kj: 
+      - name: Orzechy laskowe
+        serving: 100g
+        kcal: 628 kcal
+        kj: 
+      - name: Cukier brązowy
+        serving: 100g
+        kcal: 395 kcal
+        kj: 
+      - name: Rum
+        serving: 100g
+        kcal: 246 kcal
+        kj: 
+      - name: Słód w proszku
+        serving: 100g
+        kcal: 361 kcal
+        kj: 
+      - name: Napój ze słodu w proszku
+        serving: 100g
+        kcal: 405 kcal
+        kj: 
+      - name: Malititol
+        serving: 100g
+        kcal: 210 kcal
+        kj: 
+      - name: Maltodekstryna
+        serving: 100g
+        kcal: 375 kcal
+        kj: 
+      - name: Maltoza
+        serving: 100g
+        kcal: 344 kcal
+        kj: 
+      - name: Syrop klonowy
+        serving: 100g
+        kcal: 270 kcal
+        kj: 
+      - name: Melasa
+        serving: 100g
+        kcal: 290 kcal
+        kj: 
+      - name: Ekstrakt miętowy
+        serving: 100g
+        kcal: 0 kcal
+        kj: 
+      - name: Mak
+        serving: 100g
+        kcal: 525 kcal
+        kj: 
+      - name: Mleko w proszku
+        serving: 100g
+        kcal: 496 kcal
+        kj: 
+      - name: Cukier puder
+        serving: 100g
+        kcal: 389 kcal
+        kj: 
+      - name: Rodzynki
+        serving: 100g
+        kcal: 474 kcal
+        kj: 
+      - name: Mleko ryżowe
+        serving: 100g
+        kcal: 49 kcal
+        kj: 
+      - name: Cukier kandyzowany
+        serving: 100g
+        kcal: 625 kcal
+        kj: 
+      - name: Płatki owsiane
+        serving: 100g
+        kcal: 384 kcal
+        kj: 
+      - name: Mąka z semoliny
+        serving: 100g
+        kcal: 350 kcal
+        kj: 
+      - name: Sezam
+        serving: 100g
+        kcal: 573 kcal
+        kj: 
+      - name: Wiórki kokosowe
+        serving: 100g
+        kcal: 501 kcal
+        kj: 
+      - name: Sorbitol
+        serving: 100g
+        kcal: 375 kcal
+        kj: 
+      - name: Mleko sojowe
+        serving: 100g
+        kcal: 41 kcal
+        kj: 
+      - name: Skrobia
+        serving: 100g
+        kcal: 381 kcal
+        kj: 
+      - name: Konfitura truskawkowa
+        serving: 100g
+        kcal: 278 kcal
+        kj: 
+      - name: Sacharoza
+        serving: 100g
+        kcal: 387 kcal
+        kj: 
+      - name: Cukier
+        serving: 100g
+        kcal: 21 kcal
+        kj: 
+      - name: Nasiona słonecznika
+        serving: 100g
+        kcal: 117 kcal
+        kj: 
+      - name: Słodzik
+        serving: 100g
+        kcal: 360 kcal
+        kj: 
+      - name: Masło
+        serving: 100g
+        kcal: 717 kcal
+        kj: 
+      - name: Ekstrakt waniliowy
+        serving: 100g
+        kcal: 288 kcal
+        kj: 
+      - name: Cukier waniliowy
+        serving: 100g
+        kcal: 357 kcal
+        kj: 
+      - name: Olej roślinny
+        serving: 100g
+        kcal: 884 kcal
+        kj: 
+      - name: Margaryna
+        serving: 100g
+        kcal: 884 kcal
+        kj: 
+      - name: Orzechy włoskie
+        serving: 100g
+        kcal: 131 kcal
+        kj: 
+      - name: Mleko pełne
+        serving: 100g
+        kcal: 61 kcal
+        kj: 
+      - name: Ksylitol
+        serving: 100g
+        kcal: 240 kcal
+        kj: 
+      - name: Drożdże (suszone)
+        serving: 100g
+        kcal: 325 kcal
+        kj: 
+      - name: Krokant
+        serving: 100g
+        kcal: 592 kcal
+        kj: 
+      - name: Skórka pomarańczowa kandyzowana
+        serving: 100g
+        kcal: 97 kcal
+        kj: 
+      - name: Mąka /kaszka kukurydziana
+        serving: 100g
+        kcal: 361 kcal
+        kj: 
+      - name: Jajo kacze
+        serving: 100g
+        kcal: 185 kcal
+        kj: 
+      - name: Posypka do ciasta
+        serving: 100g
+        kcal: 475 kcal
+        kj: 
+      - name: Mleko skondensowane słodzone
+        serving: 100g
+        kcal: 321 kcal
+        kj: 
+      - name: Cynamon mielony
+        serving: 100g
+        kcal: 247 kcal
+        kj: 
+      - name: Śmietana kremówka
+        serving: 100g
+        kcal: 345 kcal
+        kj: 
+      - name: Proszek proteinowy
+        serving: 100g
+        kcal: 411 kcal
+        kj: 
+      - name: Posypka perełkowa do ciasta
+        serving: 100g
+        kcal: 500 kcal
+        kj: 
+      - name: Mąka pełnoziarnista
+        serving: 100g
+        kcal: 340 kcal
+        kj: 
+      - name: Płatki kokosowe
+        serving: 100g
+        kcal: 456 kcal
+        kj: 
+      - name: Winian potasu
+        serving: 100g
+        kcal: 258 kcal
+        kj: 
+      - name: Soda oczyszczona
+        serving: 100g
+        kcal: 0 kcal
+        kj: 
+      - name: Drożdże świeże
+        serving: 100g
+        kcal: 83 kcal
+        kj: 
+      - name: Jogurt
+        serving: 100g
+        kcal: 61 kcal
+        kj: 
+      - name: Miód
+        serving: 100g
+        kcal: 304 kcal
+        kj: 
+    - title: 'Sosy i dressingi: tabela kalorii'
+      food:
+      - name: Ajwar
+        serving: 100g
+        kcal: 18 kcal
+        kj: 
+      - name: Sos barbecue
+        serving: 100g
+        kcal: 150 kcal
+        kj: 
+      - name: Sos beszamelowy
+        serving: 100g
+        kcal: 225 kcal
+        kj: 
+      - name: Sos beareński
+        serving: 100g
+        kcal: 414 kcal
+        kj: 
+      - name: Sos bolognese
+        serving: 100g
+        kcal: 106 kcal
+        kj: 
+      - name: Sos sałatkowy cezar
+        serving: 100g
+        kcal: 429 kcal
+        kj: 
+      - name: Sos Chasseur
+        serving: 100g
+        kcal: 45 kcal
+        kj: 
+      - name: Sos chili
+        serving: 100g
+        kcal: 112 kcal
+        kj: 
+      - name: Sos śmietanowy
+        serving: 100g
+        kcal: 180 kcal
+        kj: 
+      - name: Ketchup curry
+        serving: 100g
+        kcal: 124 kcal
+        kj: 
+      - name: Sos curry
+        serving: 100g
+        kcal: 26 kcal
+        kj: 
+      - name: Jus
+        serving: 100g
+        kcal: 53 kcal
+        kj: 
+      - name: Sos hamburgerowy
+        serving: 100g
+        kcal: 383 kcal
+        kj: 
+      - name: Harissa
+        serving: 100g
+        kcal: 52 kcal
+        kj: 
+      - name: Sos holenderski
+        serving: 100g
+        kcal: 535 kcal
+        kj: 
+      - name: Chrzan
+        serving: 100g
+        kcal: 48 kcal
+        kj: 
+      - name: Ketchup
+        serving: 100g
+        kcal: 100 kcal
+        kj: 
+      - name: Majonez
+        serving: 100g
+        kcal: 692 kcal
+        kj: 
+      - name: Musztarda
+        serving: 100g
+        kcal: 60 kcal
+        kj: 
+      - name: Sos musztardowy
+        serving: 100g
+        kcal: 645 kcal
+        kj: 
+      - name: Sos pomarańczowy
+        serving: 100g
+        kcal: 179 kcal
+        kj: 
+      - name: Pesto
+        serving: 100g
+        kcal: 458 kcal
+        kj: 
+      - name: Sos Remoulade
+        serving: 100g
+        kcal: 635 kcal
+        kj: 
+      - name: Pasta sezamowa
+        serving: 100g
+        kcal: 595 kcal
+        kj: 
+      - name: Kwaśna śmietana
+        serving: 100g
+        kcal: 217 kcal
+        kj: 
+      - name: Sos z kwaśniej śmietany
+        serving: 100g
+        kcal: 60 kcal
+        kj: 
+      - name: Sos sojowy
+        serving: 100g
+        kcal: 67 kcal
+        kj: 
+      - name: Sos słodko-kwaśny
+        serving: 100g
+        kcal: 179 kcal
+        kj: 
+      - name: Tabasco
+        serving: 100g
+        kcal: 70 kcal
+        kj: 
+      - name: Sos Teriyaki
+        serving: 100g
+        kcal: 89 kcal
+        kj: 
+      - name: Przecier pomidorowy
+        serving: 100g
+        kcal: 82 kcal
+        kj: 
+      - name: Puree pomidorowe
+        serving: 100g
+        kcal: 38 kcal
+        kj: 
+      - name: Sos pomidorowy
+        serving: 100g
+        kcal: 24 kcal
+        kj: 
+      - name: Tzatziki
+        serving: 100g
+        kcal: 94 kcal
+        kj: 
+      - name: Sos Worcestershire
+        serving: 100g
+        kcal: 78 kcal
+        kj: 
+      - name: Sos vinaigrette balsamiczny
+        serving: 100g
+        kcal: 290 kcal
+        kj: 
+      - name: Sos do sałatek włoski
+        serving: 100g
+        kcal: 293 kcal
+        kj: 
+      - name: Sos sałatkowy Ranch
+        serving: 100g
+        kcal: 510 kcal
+        kj: 
+      - name: Sos sałatkowy jogurtowy
+        serving: 100g
+        kcal: 45 kcal
+        kj: 
+      - name: Sos sałatkowy francuski
+        serving: 100g
+        kcal: 60 kcal
+        kj: 
+      - name: Sos sałatkowy grecki
+        serving: 100g
+        kcal: 467 kcal
+        kj: 
+      - name: Sos sałatkowy
+        serving: 100g
+        kcal: 449 kcal
+        kj: 
+      - name: Sos Vinaigrette
+        serving: 100g
+        kcal: 120 kcal
+        kj: 
+      - name: Sos sałatkowy musztardowo-miodowy
+        serving: 100g
+        kcal: 464 kcal
+        kj: 
+  - title: Wyroby cukiernicze, chleb i wypieki
+    foods:
+    - title: 'Wyroby cukiernicze, chleb i wypieki: tabela kalorii'
+      food:
+      - name: Szarlotka
+        serving: 100g
+        kcal: 237 kcal
+        kj: 
+      - name: Bajgiel
+        serving: 100g
+        kcal: 257 kcal
+        kj: 
+      - name: Bagietka
+        serving: 100g
+        kcal: 274 kcal
+        kj: 
+      - name: Chleb bananowy
+        serving: 100g
+        kcal: 326 kcal
+        kj: 
+      - name: Biszkopty
+        serving: 100g
+        kcal: 269 kcal
+        kj: 
+      - name: Chleb razowy
+        serving: 100g
+        kcal: 250 kcal
+        kj: 
+      - name: Grissini
+        serving: 100g
+        kcal: 400 kcal
+        kj: 
+      - name: Brioszka
+        serving: 100g
+        kcal: 346 kcal
+        kj: 
+      - name: Ciasto czekoladowe
+        serving: 100g
+        kcal: 405 kcal
+        kj: 
+      - name: Bułka
+        serving: 100g
+        kcal: 316 kcal
+        kj: 
+      - name: Cannolo
+        serving: 100g
+        kcal: 254 kcal
+        kj: 
+      - name: Chałka
+        serving: 100g
+        kcal: 283 kcal
+        kj: 
+      - name: Czapati
+        serving: 100g
+        kcal: 240 kcal
+        kj: 
+      - name: Ciabatta
+        serving: 100g
+        kcal: 271 kcal
+        kj: 
+      - name: Bułeczki cynamonowe
+        serving: 100g
+        kcal: 436 kcal
+        kj: 
+      - name: Naleśniki Crêpe
+        serving: 100g
+        kcal: 224 kcal
+        kj: 
+      - name: Rogalik
+        serving: 100g
+        kcal: 406 kcal
+        kj: 
+      - name: Crumpet
+        serving: 100g
+        kcal: 178 kcal
+        kj: 
+      - name: Babeczki
+        serving: 100g
+        kcal: 305 kcal
+        kj: 
+      - name: Pączek
+        serving: 100g
+        kcal: 421 kcal
+        kj: 
+      - name: Podpłomyki
+        serving: 100g
+        kcal: 311 kcal
+        kj: 
+      - name: Focaccia (podstawa do pizzy)
+        serving: 100g
+        kcal: 249 kcal
+        kj: 
+      - name: Pieczywo czosnkowe
+        serving: 100g
+        kcal: 350 kcal
+        kj: 
+      - name: Chleb włoski
+        serving: 100g
+        kcal: 271 kcal
+        kj: 
+      - name: Maca
+        serving: 100g
+        kcal: 351 kcal
+        kj: 
+      - name: Muffinka
+        serving: 100g
+        kcal: 296 kcal
+        kj: 
+      - name: Chleb Naan
+        serving: 100g
+        kcal: 275 kcal
+        kj: 
+      - name: Naleśnik
+        serving: 100g
+        kcal: 233 kcal
+        kj: 
+      - name: Babka Panettone
+        serving: 100g
+        kcal: 318 kcal
+        kj: 
+      - name: Tarta
+        serving: 100g
+        kcal: 237 kcal
+        kj: 
+      - name: Chleb Pita
+        serving: 100g
+        kcal: 275 kcal
+        kj: 
+      - name: Chleb ziemniaczany
+        serving: 100g
+        kcal: 266 kcal
+        kj: 
+      - name: Precel
+        serving: 100g
+        kcal: 338 kcal
+        kj: 
+      - name: Ciasto francuskie
+        serving: 100g
+        kcal: 558 kcal
+        kj: 
+      - name: Pumpernikiel
+        serving: 100g
+        kcal: 250 kcal
+        kj: 
+      - name: Chleb z rodzynkami
+        serving: 100g
+        kcal: 274 kcal
+        kj: 
+      - name: Placuszki roti
+        serving: 100g
+        kcal: 264 kcal
+        kj: 
+      - name: Chleb żytni
+        serving: 100g
+        kcal: 259 kcal
+        kj: 
+      - name: Kanapka
+        serving: 100g
+        kcal: 304 kcal
+        kj: 
+      - name: Ciastko scone
+        serving: 100g
+        kcal: 362 kcal
+        kj: 
+      - name: Ciasto kruche
+        serving: 100g
+        kcal: 544 kcal
+        kj: 
+      - name: Chleb sodowy
+        serving: 100g
+        kcal: 290 kcal
+        kj: 
+      - name: Suflet
+        serving: 100g
+        kcal: 204 kcal
+        kj: 
+      - name: Chleb na zakwasie
+        serving: 100g
+        kcal: 289 kcal
+        kj: 
+      - name: Spanakopita
+        serving: 100g
+        kcal: 246 kcal
+        kj: 
+      - name: Toast
+        serving: 100g
+        kcal: 261 kcal
+        kj: 
+      - name: Chleb biały
+        serving: 100g
+        kcal: 238 kcal
+        kj: 
+      - name: Chleb pszenny pełnoziarnisty
+        serving: 100g
+        kcal: 247 kcal
+        kj: 
+      - name: Rożek z jabłkiem
+        serving: 100g
+        kcal: 348 kcal
+        kj: 
+      - name: Chleb kukurydziany
+        serving: 100g
+        kcal: 179 kcal
+        kj: 
+      - name: Bułka do hot dogów
+        serving: 100g
+        kcal: 279 kcal
+        kj: 
+      - name: Chleb wieloziarnisty
+        serving: 100g
+        kcal: 265 kcal
+        kj: 
+      - name: Ciasteczka owsiane
+        serving: 100g
+        kcal: 450 kcal
+        kj: 
+      - name: Bułka preclowa
+        serving: 100g
+        kcal: 338 kcal
+        kj: 
+      - name: Rolada
+        serving: 100g
+        kcal: 313 kcal
+        kj: 
+      - name: Tortilla
+        serving: 100g
+        kcal: 265 kcal
+        kj: 
+      - name: Kajzerka
+        serving: 100g
+        kcal: 271 kcal
+        kj: 
+      - name: Rogal drożdżowy
+        serving: 100g
+        kcal: 177 kcal
+        kj: 
+      - name: Mini pizza
+        serving: 100g
+        kcal: 250 kcal
+        kj: 
+      - name: Bułka grahamka
+        serving: 100g
+        kcal: 254 kcal
+        kj: 
+      - name: Chleb graham
+        serving: 100g
+        kcal: 212 kcal
+        kj: 
+      - name: Bułka słodka
+        serving: 100g
+        kcal: 292 kcal
+        kj: 
+      - name: Chleb tostowy
+        serving: 100g
+        kcal: 240 kcal
+        kj: 
+      - name: Bułka maślana
+        serving: 100g
+        kcal: 325 kcal
+        kj: 
+      - name: Rogal maślany
+        serving: 100g
+        kcal: 322 kcal
+        kj: 
+    - title: 'Zioła i przyprawy: tabela kalorii'
+      food:
+      - name: Ekstrakt z migdałów
+        serving: 100g
+        kcal: 374 kcal
+        kj: 
+      - name: Anyż
+        serving: 100g
+        kcal: 337 kcal
+        kj: 
+      - name: Nasiona anyżu
+        serving: 100g
+        kcal: 337 kcal
+        kj: 
+      - name: Rokietta siewna
+        serving: 100g
+        kcal: 25 kcal
+        kj: 
+      - name: Ocet balsamiczny
+        serving: 100g
+        kcal: 88 kcal
+        kj: 
+      - name: Bazylia
+        serving: 100g
+        kcal: 233 kcal
+        kj: 
+      - name: Pieprz czarny
+        serving: 100g
+        kcal: 251 kcal
+        kj: 
+      - name: Nasiona sezamu czarnego
+        serving: 100g
+        kcal: 573 kcal
+        kj: 
+      - name: Rosół
+        serving: 100g
+        kcal: 100 kcal
+        kj: 
+      - name: Kapary
+        serving: 100g
+        kcal: 23 kcal
+        kj: 
+      - name: Nasiona kminku
+        serving: 100g
+        kcal: 333 kcal
+        kj: 
+      - name: Maniok
+        serving: 100g
+        kcal: 160 kcal
+        kj: 
+      - name: Pieprz cayenne
+        serving: 100g
+        kcal: 318 kcal
+        kj: 
+      - name: Botwina
+        serving: 100g
+        kcal: 19 kcal
+        kj: 
+      - name: Korzeń cykorii
+        serving: 100g
+        kcal: 72 kcal
+        kj: 
+      - name: Chili
+        serving: 100g
+        kcal: 282 kcal
+        kj: 
+      - name: Chili w proszku
+        serving: 100g
+        kcal: 282 kcal
+        kj: 
+      - name: Szczypiorek
+        serving: 100g
+        kcal: 30 kcal
+        kj: 
+      - name: Ocet jabłkowy
+        serving: 100g
+        kcal: 21 kcal
+        kj: 
+      - name: Cynamon
+        serving: 100g
+        kcal: 247 kcal
+        kj: 
+      - name: Goździki
+        serving: 100g
+        kcal: 274 kcal
+        kj: 
+      - name: Kolendra
+        serving: 100g
+        kcal: 23 kcal
+        kj: 
+      - name: Rzeżucha
+        serving: 100g
+        kcal: 32 kcal
+        kj: 
+      - name: Imbir kandyzowany
+        serving: 100g
+        kcal: 335 kcal
+        kj: 
+      - name: Kumin
+        serving: 100g
+        kcal: 375 kcal
+        kj: 
+      - name: Curry
+        serving: 100g
+        kcal: 325 kcal
+        kj: 
+      - name: Mniszek lekarski
+        serving: 100g
+        kcal: 45 kcal
+        kj: 
+      - name: Koper
+        serving: 100g
+        kcal: 43 kcal
+        kj: 
+      - name: Koper włoski
+        serving: 100g
+        kcal: 31 kcal
+        kj: 
+      - name: Nasiona kopru włoskiego
+        serving: 100g
+        kcal: 345 kcal
+        kj: 
+      - name: Czosnek
+        serving: 100g
+        kcal: 149 kcal
+        kj: 
+      - name: Czosnek sproszkowany
+        serving: 100g
+        kcal: 331 kcal
+        kj: 
+      - name: Sól czosnkowa
+        serving: 100g
+        kcal: 0 kcal
+        kj: 
+      - name: Imbir
+        serving: 100g
+        kcal: 80 kcal
+        kj: 
+      - name: Liście winogron
+        serving: 100g
+        kcal: 93 kcal
+        kj: 
+      - name: Chrzan
+        serving: 100g
+        kcal: 48 kcal
+        kj: 
+      - name: Sól jodowana
+        serving: 100g
+        kcal: 0 kcal
+        kj: 
+      - name: Jalepeno
+        serving: 100g
+        kcal: 13 kcal
+        kj: 
+      - name: Jałowiec
+        serving: 100g
+        kcal: 45 kcal
+        kj: 
+      - name: Lukrecja
+        serving: 100g
+        kcal: 375 kcal
+        kj: 
+      - name: Maggi
+        serving: 100g
+        kcal: 104 kcal
+        kj: 
+      - name: Majeranek
+        serving: 100g
+        kcal: 271 kcal
+        kj: 
+      - name: Siekana cebula
+        serving: 100g
+        kcal: 40 kcal
+        kj: 
+      - name: Mięta
+        serving: 100g
+        kcal: 70 kcal
+        kj: 
+      - name: Nasiona gorczycy
+        serving: 100g
+        kcal: 508 kcal
+        kj: 
+      - name: Gałka muszkatołowa
+        serving: 100g
+        kcal: 525 kcal
+        kj: 
+      - name: Piżmian
+        serving: 100g
+        kcal: 33 kcal
+        kj: 
+      - name: Cebula
+        serving: 100g
+        kcal: 40 kcal
+        kj: 
+      - name: Cebula sproszkowana
+        serving: 100g
+        kcal: 341 kcal
+        kj: 
+      - name: Skórka pomarańczowa
+        serving: 100g
+        kcal: 97 kcal
+        kj: 
+      - name: Oregano
+        serving: 100g
+        kcal: 265 kcal
+        kj: 
+      - name: Pietruszka
+        serving: 100g
+        kcal: 36 kcal
+        kj: 
+      - name: Pasternak
+        serving: 100g
+        kcal: 75 kcal
+        kj: 
+      - name: Papryka
+        serving: 100g
+        kcal: 251 kcal
+        kj: 
+      - name: Nasiona maku
+        serving: 100g
+        kcal: 525 kcal
+        kj: 
+      - name: Papryka czerwona
+        serving: 100g
+        kcal: 251 kcal
+        kj: 
+      - name: Ocet winny czerwony
+        serving: 100g
+        kcal: 19 kcal
+        kj: 
+      - name: Rozmaryn
+        serving: 100g
+        kcal: 131 kcal
+        kj: 
+      - name: Szafran
+        serving: 100g
+        kcal: 310 kcal
+        kj: 
+      - name: Szałwia
+        serving: 100g
+        kcal: 315 kcal
+        kj: 
+      - name: Sól
+        serving: 100g
+        kcal: 0 kcal
+        kj: 
+      - name: Sól morska
+        serving: 100g
+        kcal: 0 kcal
+        kj: 
+      - name: Nasiona sezamu
+        serving: 100g
+        kcal: 573 kcal
+        kj: 
+      - name: Stewia
+        serving: 100g
+        kcal: 0 kcal
+        kj: 
+      - name: Tamaryndowiec
+        serving: 100g
+        kcal: 239 kcal
+        kj: 
+      - name: Kolokazja
+        serving: 100g
+        kcal: 112 kcal
+        kj: 
+      - name: Estragon
+        serving: 100g
+        kcal: 295 kcal
+        kj: 
+      - name: Tymianek
+        serving: 100g
+        kcal: 276 kcal
+        kj: 
+      - name: Kurkuma
+        serving: 100g
+        kcal: 354 kcal
+        kj: 
+      - name: Ekstrakt z wanilii
+        serving: 100g
+        kcal: 288 kcal
+        kj: 
+      - name: Ocet
+        serving: 100g
+        kcal: 18 kcal
+        kj: 
+      - name: Pieprz biały
+        serving: 100g
+        kcal: 296 kcal
+        kj: 
+      - name: Ziemniak słodki
+        serving: 100g
+        kcal: 118 kcal
+        kj: 
+      - name: Laska wanilii
+        serving: 100g
+        kcal: 250 kcal
+        kj: 
+      - name: Liście cykorii
+        serving: 100g
+        kcal: 23 kcal
+        kj: 
