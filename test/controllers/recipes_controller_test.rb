@@ -23,6 +23,24 @@ class RecipesControllerTest < ActionDispatch::IntegrationTest
     assert_redirected_to recipe_url(Recipe.last)
   end
 
+  test "should create recipe with ingredients as nested attributes" do
+    patch recipe_url(@recipe),
+      params: {
+        recipe: {
+          instructions: @recipe.instructions,
+          title: @recipe.title,
+          ingredients_params: [
+            {
+              food_id: foods(:one).id,
+            },
+          ],
+        },
+      }
+    assert_redirected_to recipe_url(@recipe)
+    @recipe.reload
+    assert @recipe.ingredients.length == 1
+  end
+
   test "should show recipe" do
     get recipe_url(@recipe)
     assert_response :success

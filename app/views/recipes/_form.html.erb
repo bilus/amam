@@ -16,6 +16,22 @@
     <%= form.text_field :title %>
   </div>
 
+  <div data-controller="nested-form">
+      <template data-target='nested-form.template'>
+          <%= form.fields_for :ingredients, Ingredient.new, child_index: 'TEMPLATE_RECORD' do |ingredient| %>
+              <%= render 'ingredient_fields', form: ingredient %>
+          <% end %>
+      </template>
+
+      <%= form.fields_for :ingredients do |ingredient| %>
+          <%= render 'ingredient_fields', form: ingredient %>
+      <% end %>
+
+      <div data-target="nested-form.add_item">
+          <%= link_to "Add Ingredient", "#", data: { action: "nested-form#add_association" } %>
+      </div>
+  </div>
+
   <div class="field">
     <%= form.label :instructions %>
     <%= form.text_area :instructions %>
