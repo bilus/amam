@@ -69,7 +69,18 @@ class RecipesController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def recipe_params
-      params.require(:recipe).permit(:title, :instructions,
-        ingredients_attributes: [:__destroy, :id, :food_id, :serving])
+      # TODO: Custom validation for when food_name is blank.
+      ps = params.require(:recipe).permit(:title, :instructions,
+        ingredients_attributes: [:_destroy, :id, :food_name, :serving]).to_h
+      ps[:ingredients_attributes] = ps[:ingredients_attributes]&.map { |i, p|
+        [i, resolve_ingredient(p)]
+      }.to_h
+      ps
+    end
+
+    # Go from food_name to food_id, create Food records if no records with names matching food_name found.
+    def resolve_ingredient(ingredient_params)
+      food = Food.find_or_create_by!(name: ingredient_params[:food_name]) { |f| f.serving = ingredient_params[:serving] }
+      ingredient_params.merge(food_id: food.id).except(:food_name)
     end
 end

@@ -2,7 +2,7 @@ require 'test_helper'
 
 class RecipesControllerTest < ActionDispatch::IntegrationTest
   setup do
-    @recipe = recipes(:one)
+    @recipe = recipes(:two)
   end
 
   test "should get index" do
@@ -26,14 +26,30 @@ class RecipesControllerTest < ActionDispatch::IntegrationTest
   test "should create recipe with ingredients as nested attributes" do
     patch recipe_url(@recipe),
       params: {
+        'recipe' => {
+          'instructions' => @recipe.instructions,
+          'title' => @recipe.title,
+          'ingredients_attributes' => {
+              '1' => { food_name: foods(:one).name, }
+            },
+        },
+      }
+    assert_redirected_to recipe_url(@recipe)
+    @recipe.reload
+    assert @recipe.ingredients.length == 1
+  end
+
+  test "should create missing ingredients" do
+    patch recipe_url(@recipe),
+      params: {
         recipe: {
           instructions: @recipe.instructions,
           title: @recipe.title,
-          ingredients_params: [
-            {
-              food_id: foods(:one).id,
+          ingredients_attributes: {
+            '1' => {
+              food_name: 'foo bar',
             },
-          ],
+          },
         },
       }
     assert_redirected_to recipe_url(@recipe)
